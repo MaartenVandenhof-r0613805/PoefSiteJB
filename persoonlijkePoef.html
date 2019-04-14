@@ -5,6 +5,7 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
     <link rel="stylesheet" href="cssReset.css">
     <link rel="stylesheet" href="poefSite.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <title>Poef</title>
 </head>
 
@@ -14,13 +15,20 @@
             <li><a href="poefSite.html">Home</a></li>
         </ul>
     </nav>
-    <main id="personalInfo">
+    <main>
         <div id="person">
             <h1 id="totem">Voortotem totem</h1>
+            <div>
+                <h1 class="amount">Persoonlijk Bedrag:</h1>
+                <h1 class="amount" id="amount">46</h1>
+            </div>
         </div>
-        <div id="amountContainer">
-            <h1 class="amount">Persoonlijk Bedrag:</h1>
-            <h1 class="amount" id="amount">46</h1>
+        <div id="smallSummary">
+            <h1>Overzicht</h1>
+            
         </div>
     </main>
-</body></html>
+</body>
+<script src="scraper.js"
+></script>
+</html>
