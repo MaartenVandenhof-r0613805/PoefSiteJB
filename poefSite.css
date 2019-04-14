@@ -1,0 +1,174 @@
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5%;
+    background: #407ccd;
+}
+
+body {
+    font-family: 'Roboto Slab';
+    height: 100%;
+    background: #eee;
+}
+
+html {
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#totalPoefContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    height: 40px;
+    background: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+    margin: 10px;
+}
+
+#totalPoef {
+    color: #ff6200;
+    font-weight: bold;
+}
+
+.totalPoef {
+    margin: 2px;
+    color: #407ccd;
+    font-size: 20px;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+#searchPerson {
+    width: 95%;
+    background: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 0px;
+}
+
+#searchPerson p {
+    margin: 5px;
+    color: #407ccd;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#searchPerson div {
+    margin: 5px;
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+
+#searchPerson div button {
+    font-family: inherit;
+    background: #fff;
+    border: 1.5px solid #407ccd;
+    padding: 5px;
+    color: #407ccd;
+}
+
+#searchPerson div button:hover {
+    transition: 0.2s;
+    background: #407ccd;
+    color: #fff;
+}
+
+#searchPerson select {
+    margin: 20px;
+    width: 30%;
+    font-family: inherit;
+    height: 30px;
+    border: 1.5px solid #407ccd;
+    color: #407ccd;
+}
+
+#search {
+    width: 20%;
+    height: 30px;
+    background: #407ccd;
+    border: 1.5px solid #407ccd;
+    color: #fff;
+    font-family: inherit;
+    font-size: 15px;
+}
+
+#message {
+    width: 95%;
+    background: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#message h2 {
+  margin: 10px;
+  color: #407ccd;
+}
+
+#message h1 {
+  margin: 10px;
+  color: #407ccd;
+  font-weight: bold;   
+}
+
+#person {
+    width: 95%;
+    background: #407ccd;
+    margin: 5px;
+    margin-top: 20px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+    font-size: 20px
+}
+
+#person h1{
+    color: #fff;
+    margin: 5px;
+}
+
+
+
+#amountContainer {
+    width: 60%;
+    background: #fff;
+    margin: 5px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+}
+
+.amount {
+    margin: 10px;
+    font-size: 19px;
+    color: #777777
+}
+
+#amount {
+    color: limegreen;
+    font-weight: bold;
+}
