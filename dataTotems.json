@@ -6,6 +6,21 @@
     "Tak": "VK"
   },
   {
+    "Value": "175",
+    "Totem": "kameloen",
+    "Tak": "VK"
+  },
+  {
+    "Value": "180",
+    "Totem": "papegaai",
+    "Tak": "VK"
+  },
+  {
+    "Value": "181",
+    "Totem": "leeuw",
+    "Tak": "VK"
+  },
+  {
     "Value": "182",
     "Totem": "snoek",
     "Naam": "aerts thomas",
@@ -75,6 +90,11 @@
     "Value": "193",
     "Totem": "Gazelle",
     "Naam": "Viktor  Van Rompuy",
+    "Tak": "VK"
+  },
+  {
+    "Value": "196",
+    "Totem": "Buffel",
     "Tak": "VK"
   },
   {
@@ -415,6 +435,11 @@
     "Value": "195",
     "Totem": "Alpaca, SK",
     "Naam": "Femke Roels",
+    "Tak": "A"
+  },
+  {
+    "Value": "197",
+    "Totem": "kraanvogel, ",
     "Tak": "A"
   },
   {
