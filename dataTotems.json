@@ -1,0 +1,564 @@
+[
+  {
+    "Value": "156",
+    "Totem": "Smelleken",
+    "Naam": "De Meulemeester Jesse",
+    "Tak": "VK"
+  },
+  {
+    "Value": "182",
+    "Totem": "snoek",
+    "Naam": "aerts thomas",
+    "Tak": "VK"
+  },
+  {
+    "Value": "183",
+    "Totem": "streepmuis",
+    "Naam": "Wies Opdebeeck",
+    "Tak": "VK"
+  },
+  {
+    "Value": "184",
+    "Totem": "fret",
+    "Naam": "Op de beeck lode",
+    "Tak": "VK"
+  },
+  {
+    "Value": "185",
+    "Totem": "Labrador",
+    "Naam": "Elias  Huybrechts",
+    "Tak": "VK"
+  },
+  {
+    "Value": "186",
+    "Totem": "Wolf",
+    "Naam": "Wiebe Van Vliet",
+    "Tak": "VK"
+  },
+  {
+    "Value": "187",
+    "Totem": "Coati",
+    "Naam": "Jari Sijbers",
+    "Tak": "VK"
+  },
+  {
+    "Value": "188",
+    "Totem": "Lama",
+    "Naam": "Quinten  Pauwels",
+    "Tak": "VK"
+  },
+  {
+    "Value": "189",
+    "Totem": "Zeehond",
+    "Naam": "Kobe Vanooteghem",
+    "Tak": "VK"
+  },
+  {
+    "Value": "190",
+    "Totem": "Flamingo",
+    "Naam": "Thomas  Van Eekert",
+    "Tak": "VK"
+  },
+  {
+    "Value": "191",
+    "Totem": "Agame",
+    "Naam": "Rune Decorte",
+    "Tak": "VK"
+  },
+  {
+    "Value": "192",
+    "Totem": "Schildpad",
+    "Naam": "Simon  Miya",
+    "Tak": "VK"
+  },
+  {
+    "Value": "193",
+    "Totem": "Gazelle",
+    "Naam": "Viktor  Van Rompuy",
+    "Tak": "VK"
+  },
+  {
+    "Value": "124",
+    "Totem": "Eekhoorn, Uitdagende",
+    "Naam": "Vertommen Sander",
+    "Tak": "L"
+  },
+  {
+    "Value": "140",
+    "Totem": "Mus, Gemeenzame",
+    "Naam": "Blomaerts Seppe",
+    "Tak": "L"
+  },
+  {
+    "Value": "141",
+    "Totem": "Ekster, Opgetogen",
+    "Naam": "Vertommen Jannes",
+    "Tak": "L"
+  },
+  {
+    "Value": "145",
+    "Totem": "Stekelstaarteekhoorn, Volgzame",
+    "Naam": "Kobe Op De Beeck ",
+    "Tak": "L"
+  },
+  {
+    "Value": "146",
+    "Totem": "Toekan, Ijverige",
+    "Naam": "Mathias Mrabet",
+    "Tak": "L"
+  },
+  {
+    "Value": "147",
+    "Totem": "Specht, Praatgrage",
+    "Naam": "Bjarne Pijl",
+    "Tak": "L"
+  },
+  {
+    "Value": "150",
+    "Totem": "Fodi, Vredige",
+    "Naam": "De Corte Berre",
+    "Tak": "L"
+  },
+  {
+    "Value": "153",
+    "Totem": "Gibbon, Jolige",
+    "Naam": "Pijl Jonathan",
+    "Tak": "L"
+  },
+  {
+    "Value": "154",
+    "Totem": "Beermarter, Gedreven",
+    "Naam": "Mrabet Jonas",
+    "Tak": "L"
+  },
+  {
+    "Value": "155",
+    "Totem": "Kauw, aangename",
+    "Naam": "Cools Jordi",
+    "Tak": "L"
+  },
+  {
+    "Value": "160",
+    "Totem": "Gekko, ",
+    "Naam": "Lien Smets",
+    "Tak": "L"
+  },
+  {
+    "Value": "163",
+    "Totem": "panda, Komische",
+    "Naam": "Mrabet Jordy",
+    "Tak": "L"
+  },
+  {
+    "Value": "164",
+    "Totem": "Scholekster, Geestdriftige",
+    "Naam": "Vandekerkhove Brecht",
+    "Tak": "L"
+  },
+  {
+    "Value": "165",
+    "Totem": "Banteng, Ruige",
+    "Naam": "Van Haaren Thijs",
+    "Tak": "L"
+  },
+  {
+    "Value": "167",
+    "Totem": "veldmuis, gemoedelijke",
+    "Naam": "van Eester Ellen",
+    "Tak": "L"
+  },
+  {
+    "Value": "168",
+    "Totem": "Oerang-Oetan, Bedachtzame",
+    "Naam": "Decorte Kobe",
+    "Tak": "L"
+  },
+  {
+    "Value": "170",
+    "Totem": "Saiga, Vinnige",
+    "Naam": "Punjwani Simon",
+    "Tak": "L"
+  },
+  {
+    "Value": "173",
+    "Totem": "Coendu, Geslepen",
+    "Naam": "Duez Quinten",
+    "Tak": "L"
+  },
+  {
+    "Value": "174",
+    "Totem": "Corvus, ",
+    "Naam": "Van Itterbeeck Rob",
+    "Tak": "L"
+  },
+  {
+    "Value": "179",
+    "Totem": "Kauw (v), ",
+    "Naam": " kelly",
+    "Tak": "L"
+  },
+  {
+    "Value": "194",
+    "Totem": "Koekoek, ",
+    "Naam": "Tom Op de Beeck",
+    "Tak": "L"
+  },
+  {
+    "Value": "198",
+    "Totem": "Fitis, Energieke",
+    "Naam": "Blommaerts Nele",
+    "Tak": "L"
+  },
+  {
+    "Value": "199",
+    "Totem": "Bandro, Directe",
+    "Naam": "Hannah Devries",
+    "Tak": "L"
+  },
+  {
+    "Value": "200",
+    "Totem": "Fodi, Fantasierijke",
+    "Naam": "Elien Devries",
+    "Tak": "L"
+  },
+  {
+    "Value": "10",
+    "Totem": "Barry, Gemotiveerde",
+    "Naam": "Sluyts Wannes",
+    "Tak": "A"
+  },
+  {
+    "Value": "108",
+    "Totem": "Lori, geslepen",
+    "Naam": "Romanus Ward",
+    "Tak": "A"
+  },
+  {
+    "Value": "109",
+    "Totem": "Markhoor, Verstrooide",
+    "Naam": "Van Eekert Bram",
+    "Tak": "A"
+  },
+  {
+    "Value": "11",
+    "Totem": "Sikahert, Aangename",
+    "Naam": "Rombauts Bart",
+    "Tak": "A"
+  },
+  {
+    "Value": "111",
+    "Totem": "Gorilla, vreugdevolle",
+    "Naam": "Gommers Koen",
+    "Tak": "A"
+  },
+  {
+    "Value": "117",
+    "Totem": "Arend, toegewijde",
+    "Naam": "De Vos Jelle",
+    "Tak": "A"
+  },
+  {
+    "Value": "119",
+    "Totem": "Spinaap, behendige",
+    "Naam": "Van den Bosch Wannes",
+    "Tak": "A"
+  },
+  {
+    "Value": "120",
+    "Naam": "Kapoenen kas",
+    "Tak": "A"
+  },
+  {
+    "Value": "123",
+    "Totem": "Siamang, ",
+    "Naam": "De Cock Raj",
+    "Tak": "A"
+  },
+  {
+    "Value": "126",
+    "Totem": "Spreeuw, tevreden",
+    "Naam": "Tjoen Thomas",
+    "Tak": "A"
+  },
+  {
+    "Value": "127",
+    "Totem": "Serval, Sociale",
+    "Naam": "Mertens Toon",
+    "Tak": "A"
+  },
+  {
+    "Value": "129",
+    "Totem": "Secretarisvogel, Oprechte",
+    "Naam": "Vandenschilden Jan",
+    "Tak": "A"
+  },
+  {
+    "Value": "132",
+    "Totem": "Kameel, ",
+    "Naam": "De Keyser Sarah",
+    "Tak": "A"
+  },
+  {
+    "Value": "133",
+    "Totem": "Stekelstaarteekhoorn (v), ",
+    "Naam": "De Vos Joke",
+    "Tak": "A"
+  },
+  {
+    "Value": "135",
+    "Totem": "Steenbok, Gezellige",
+    "Naam": "Sluyts Lotte",
+    "Tak": "A"
+  },
+  {
+    "Value": "136",
+    "Totem": "Schaarbek, Beheerste",
+    "Naam": "Huber Thomas",
+    "Tak": "A"
+  },
+  {
+    "Value": "138",
+    "Naam": "De Fourage",
+    "Tak": "A"
+  },
+  {
+    "Value": "139",
+    "Totem": "Saterhoen, Gemoedelijke",
+    "Naam": "Maarten Van den Hof",
+    "Tak": "A"
+  },
+  {
+    "Value": "142",
+    "Totem": "hazewind, Parate",
+    "Naam": "Vertommen Marijke",
+    "Tak": "A"
+  },
+  {
+    "Value": "144",
+    "Totem": "Gidsen, kas",
+    "Naam": "Gidsen kas",
+    "Tak": "A"
+  },
+  {
+    "Value": "148",
+    "Totem": "Arakanga, Vurige",
+    "Naam": "De Keyser Hanne",
+    "Tak": "A"
+  },
+  {
+    "Value": "149",
+    "Totem": "Kariboe, ",
+    "Naam": "Nathalie Moeyersons",
+    "Tak": "A"
+  },
+  {
+    "Value": "15",
+    "Totem": "Tupaja, Drukke",
+    "Naam": "Janssens Michiel",
+    "Tak": "A"
+  },
+  {
+    "Value": "151",
+    "Totem": "Cheetah, ",
+    "Naam": "Dageraad Somers",
+    "Tak": "A"
+  },
+  {
+    "Value": "16",
+    "Totem": "Moeflon, Ondeugende",
+    "Naam": "Heylen Bram",
+    "Tak": "A"
+  },
+  {
+    "Value": "162",
+    "Totem": "opendeurdag, opendeurdag",
+    "Naam": "opendeurdag opendeurdag",
+    "Tak": "A"
+  },
+  {
+    "Value": "166",
+    "Totem": "Wisent, ",
+    "Naam": "De Burghgraeve Kasper",
+    "Tak": "A"
+  },
+  {
+    "Value": "17",
+    "Totem": "Steenbok, Assertieve",
+    "Naam": "Moeyersons Thomas",
+    "Tak": "A"
+  },
+  {
+    "Value": "171",
+    "Totem": "Loewak, Oprechte",
+    "Naam": " Nathalie Verhaeren",
+    "Tak": "A"
+  },
+  {
+    "Value": "172",
+    "Totem": "stokstaart, doordachte",
+    "Naam": "van Eekert Maarten",
+    "Tak": "A"
+  },
+  {
+    "Value": "176",
+    "Totem": "Maraboe, Kwieke",
+    "Naam": "Van Baden Steven",
+    "Tak": "A"
+  },
+  {
+    "Value": "178",
+    "Totem": "kanarie, ",
+    "Naam": "krey khey",
+    "Tak": "A"
+  },
+  {
+    "Value": "195",
+    "Totem": "Alpaca, SK",
+    "Naam": "Femke Roels",
+    "Tak": "A"
+  },
+  {
+    "Value": "201",
+    "Totem": "saki, ",
+    "Naam": "melanie ",
+    "Tak": "A"
+  },
+  {
+    "Value": "22",
+    "Totem": "Adelaar, Gedreven",
+    "Naam": "Janssens Thomas",
+    "Tak": "A"
+  },
+  {
+    "Value": "23",
+    "Totem": "Alpaca, Inventieve",
+    "Naam": "Kinne Dag",
+    "Tak": "A"
+  },
+  {
+    "Value": "25",
+    "Totem": "Kangoeroe, Enthousiaste",
+    "Naam": "Mollemans Bram",
+    "Tak": "A"
+  },
+  {
+    "Value": "27",
+    "Totem": "Panda, Vrijmoedige",
+    "Naam": "Sas Wim",
+    "Tak": "A"
+  },
+  {
+    "Value": "3",
+    "Totem": "Maraboe, Flamboyante",
+    "Naam": "Verbeeck Mattias",
+    "Tak": "A"
+  },
+  {
+    "Value": "31",
+    "Totem": "Sifaka, Sociale",
+    "Naam": "Van Tricht Senne",
+    "Tak": "A"
+  },
+  {
+    "Value": "45",
+    "Naam": "Groep kas",
+    "Tak": "A"
+  },
+  {
+    "Value": "51",
+    "Naam": "Welpen kas",
+    "Tak": "A"
+  },
+  {
+    "Value": "52",
+    "Totem": "Jako, Parate",
+    "Naam": "Hendrickx Bert",
+    "Tak": "A"
+  },
+  {
+    "Value": "54",
+    "Totem": "Arasari, Pientere",
+    "Naam": "Suykens Michiel",
+    "Tak": "A"
+  },
+  {
+    "Value": "57",
+    "Totem": "Spitsvogel, Energieke",
+    "Naam": "Planckaert Rens",
+    "Tak": "A"
+  },
+  {
+    "Value": "67",
+    "Totem": "Ara, Kordate",
+    "Naam": "Verbeeck Thijs",
+    "Tak": "A"
+  },
+  {
+    "Value": "69",
+    "Naam": "Duoparty kas",
+    "Tak": "A"
+  },
+  {
+    "Value": "7",
+    "Totem": "Kaketoe, Openhartige",
+    "Naam": "Van Den Bosch Sander",
+    "Tak": "A"
+  },
+  {
+    "Value": "70",
+    "Naam": "JVs kas",
+    "Tak": "A"
+  },
+  {
+    "Value": "71",
+    "Naam": "Jins kas",
+    "Tak": "A"
+  },
+  {
+    "Value": "72",
+    "Naam": "VKs kas",
+    "Tak": "A"
+  },
+  {
+    "Value": "73",
+    "Totem": "Olifant, Zorgeloze",
+    "Naam": "Renkin Thomas",
+    "Tak": "A"
+  },
+  {
+    "Value": "75",
+    "Totem": "Carancho, Geestige",
+    "Naam": "Verstraeten Gert",
+    "Tak": "A"
+  },
+  {
+    "Value": "8",
+    "Totem": "Tagoean, Guitige",
+    "Naam": "Van Aken Nick",
+    "Tak": "A"
+  },
+  {
+    "Value": "9",
+    "Totem": "Katfret, Rustige",
+    "Naam": "Somers Casper",
+    "Tak": "A"
+  },
+  {
+    "Value": "92",
+    "Totem": "Wasbeer, Gelaten",
+    "Naam": "Henderickx Ward",
+    "Tak": "A"
+  },
+  {
+    "Value": "95",
+    "Totem": "Kapucijnaap, Opgewekte",
+    "Naam": "Cloet Evert",
+    "Tak": "A"
+  },
+  {
+    "Value": "99",
+    "Totem": "Suricata, Clevere",
+    "Naam": "Verlinden Katrien",
+    "Tak": "A"
+  }
+]

@@ -27,20 +27,21 @@ a {
     align-items: center;
     width: 95%;
     height: 40px;
-    background: #fff;
+    background: #407ccd;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
     margin: 10px;
     max-width: 1000px;
+    margin-top: 50px;
 }
 
-#totalPoef {
+#totalPoefContainer #totalPoef {
     color: #ff6200;
     font-weight: bold;
 }
 
 .totalPoef {
     margin: 2px;
-    color: #407ccd;
+    color: #fff;
     font-size: 20px;
 }
 
@@ -85,6 +86,7 @@ main {
     border: 1.5px solid #407ccd;
     padding: 5px;
     color: #407ccd;
+    width: 30%;
 }
 
 #searchPerson div button:hover {
@@ -114,7 +116,7 @@ main {
 
 #message {
     width: 95%;
-    background: #fff;
+    background: #407ccd;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
     margin: 10px;
     display: flex;
@@ -127,12 +129,12 @@ main {
 
 #message h2 {
   margin: 10px;
-  color: #407ccd;
+  color: #fff;
 }
 
 #message h1 {
   margin: 10px;
-  color: #407ccd;
+  color: #fff;
   font-weight: bold;   
 }
 
@@ -210,4 +212,18 @@ main {
 
 #totem {
     padding: 10px;
+}
+
+#searchPerson #preference button{
+    color: #fff;
+    border: 1px solid #    background: #407ccd;
+;
+    background: #8FB5E9;
+    margin: 10px;
+    width: 30%
+}
+
+#searchPerson #preference {
+    margin-bottom: 0px;
+    background: #407ccd;
 }

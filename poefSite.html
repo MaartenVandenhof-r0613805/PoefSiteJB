@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <link rel="stylesheet" href="cssReset.css">
     <link rel="stylesheet" href="poefSite.css">
     <title>Poefsite JB</title>
@@ -15,28 +16,42 @@
         </ul>
     </nav>
     <main>
-        <div id="totalPoefContainer">
+        <div class="home" id="totalPoefContainer">
             <h1 class="totalPoef">Totale poef: </h1>
-            <h1 class="totalPoef" id="totalPoef">1800</h1>
+            <h1 class="totalPoef" id="totalPoef">-1800</h1>
         </div>
-        <div id="searchPerson">
+        <div class="home" id="searchPerson">
             <p>Zoek op:</p>
             <div>
-                <button>Verkenners</button>
-                <button>Leiding</button>
-                <button>Andere</button>
+                <button id="selectVK">Verkenners</button>
+                <button id="selectL">Leiding</button>
+                <button id="selectA">Andere</button>
             </div>
-            <select>
-                <option value="volvo">Volvo</option>
-                <option value="saab">Saab</option>
-                <option value="mercedes">Mercedes</option>
-                <option value="audi">Audi</option>
-            </select>
+            <div id="preference">
+                <button id="totemP">Totem</button>
+                <button id="nameP">Naam</button>
+            </div>
+            <select id="selectPerson"></select>
             <button id="search">Zoek</button>
         </div>
-        <div id="message">
+        <div class="home" id="message">
             <h2>Overschrijven kan op rekeningnummer</h2>
             <h1>BE72 7795 9189 2216</h1>
         </div>
+        
+        <div class="personal" id="person">
+            <h1 id="totem">Voortotem totem</h1>
+            <div>
+                <h1 class="amount">Persoonlijk Bedrag:</h1>
+                <h1 class="amount" id="amount">46</h1>
+            </div>
+        </div>
+        <div class="personal" id="smallSummary">
+            <h1>Overzicht</h1>
+
+        </div>
     </main>
-</body></html>
+</body>
+<script src="scraper.js"></script>
+<script src="poefsite.js"></script>
+</html>
