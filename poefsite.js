@@ -96,6 +96,29 @@ function showPersonal() {
     for (i = 0; i < homeDivs.length; i++) {
         homeDivs[i].style.display = "none";
     }
+
+    $.getJSON("personDetails.json", function (data) {
+        var price = 0;
+        data.forEach(function (d) {
+            if (preference == "Totem") {
+                
+                if (d.totem == selectedPerson) {
+                    price = d.price * -1;
+                    document.getElementById("amount").innerHTML = "€" + price;
+                }
+            } else {
+                if (d.name == selectedPerson) {
+                    price = d.price * -1;
+                    document.getElementById("amount").innerHTML = "€" + price;
+                }
+            }
+        })
+        if(price < 0){
+            document.getElementById("amount").style.color = 'red';
+        } else {
+            document.getElementById("amount").style.color = 'limegreen';
+        }
+    })
 }
 
 function resetButtons() {
