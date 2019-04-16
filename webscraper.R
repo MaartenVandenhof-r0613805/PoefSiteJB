@@ -56,7 +56,7 @@ totemNames <- as.data.frame(totemNames)
 totemNamesFinal <- totems[totems$totems %in% totemNames$totemNames,]
 totems <- totems[!(totems$totems %in% totemNames$totemNames),]
 
-totems <- merge(totems, totemNamesFinal, by = "tValues", all.y = TRUE)
+totems <- merge(totems, totemNamesFinal, by = "tValues", all = TRUE)
 totems <- cbind(totems, "VK")
 
 
@@ -84,7 +84,7 @@ totemNames <- totemsL[unique(totemsL$tValuesL),]
 totemNames <- as.data.frame(totemNames)
 totemsL <- totemsL[!(totemsL$totemsL %in% totemNames$totemsL),]
 
-totemsL <- merge(totemNames, totemsL, by = "tValuesL", all.x = TRUE)
+totemsL <- merge(totemNames, totemsL, by = "tValuesL", all = TRUE)
 totemsL <- cbind(totemsL, "L")
 
 colnames(totemsL) <- c("Value", "Totem", "Naam", "Tak")
@@ -114,7 +114,7 @@ totemNames <- totemsA[!(grepl(".*,.*", totemsA$totemsA)),]
 totemNames <- as.data.frame(totemNames)
 totemsA <- totemsA[!(totemsA$totemsA %in% totemNames$totemsA),]
 
-totemsA <- merge(totemNames, totemsA, by = "tValuesA", all.x = TRUE)
+totemsA <- merge(totemNames, totemsA, by = "tValuesA", all = TRUE)
 totemsA <- cbind(totemsA, "A")
 
 colnames(totemsA) <- c("Value", "Naam", "Totem", "Tak")

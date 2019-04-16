@@ -52,16 +52,10 @@ for(i in 1:length(webElem$text)){  #length(webElem$text)
     totem <- sapply(strsplit(totem, split=' '), tail, 1L)
     totem <- as.data.frame(totem)
     
-    name <- html_nodes(html, "center")
-    name <- sapply(name, function(x){
-      t <- cleanFun(x)
-      t<- str_replace_all(t, "[\r\n]" , "")
-      t<- trimws(t)
-    })
-    name <- name[2]
-    name <- gsub('\\(', "", name)
-    name <- gsub('\\)', "", name)
+    name <- totems[totems$Totem == as.character(totem$totem),]
+    name <- name$Naam
     name <- as.data.frame(name)
+    name <- name[1,]
     
     row <- cbind(totem, price)
     row <- cbind(row, name)
@@ -89,10 +83,10 @@ price <- sapply(price, function(x){
   t<- str_replace_all(t, "[\r\n]" , "")
   t<- trimws(t)
 })
-price <- numeri
 price <- as.data.frame(price)
 price <- price[price != "",]
 price <- as.data.frame(price)
 personDetails <- toJSON(detailsList, pretty = TRUE)
 write(personDetails, "personDetails.json")
 rem_dr$close()
+rd$server$stop()
