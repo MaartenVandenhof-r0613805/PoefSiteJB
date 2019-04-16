@@ -64,7 +64,10 @@ for(i in 1:length(webElem$text)){  #length(webElem$text)
   rem_dr$navigate(url)
 }
 
-
+personDetails <- toJSON(detailsList, pretty = TRUE)
+write(personDetails, "personDetails.json")
+rem_dr$close()
+rd$server$stop()
 
 webElem$elements[[1]]$clickElement()
 sendBtn$clickElement()
@@ -86,7 +89,4 @@ price <- sapply(price, function(x){
 price <- as.data.frame(price)
 price <- price[price != "",]
 price <- as.data.frame(price)
-personDetails <- toJSON(detailsList, pretty = TRUE)
-write(personDetails, "personDetails.json")
-rem_dr$close()
-rd$server$stop()
+

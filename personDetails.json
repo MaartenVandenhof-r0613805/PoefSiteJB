@@ -2,86 +2,82 @@
   {
     "totem": "Agame",
     "price": "-3.4",
-    "name": "Decorte Rune"
+    "name": "Rune Decorte"
   },
   {
     "totem": "Buffel",
-    "price": "23",
-    "name": " "
+    "price": "23"
   },
   {
     "totem": "Coati",
     "price": "0",
-    "name": "Sijbers Jari"
+    "name": "Jari Sijbers"
   },
   {
     "totem": "Flamingo",
     "price": "48",
-    "name": "Van Eekert Thomas "
+    "name": "Thomas  Van Eekert"
   },
   {
     "totem": "fret",
     "price": "11.3",
-    "name": "lode Op de beeck"
+    "name": "Op de beeck lode"
   },
   {
     "totem": "Gazelle",
     "price": "-5.4",
-    "name": "Van Rompuy Viktor "
+    "name": "Viktor  Van Rompuy"
   },
   {
     "totem": "kameloen",
-    "price": "50",
-    "name": " "
+    "price": "50"
   },
   {
     "totem": "Labrador",
     "price": "1",
-    "name": "Huybrechts Elias "
+    "name": "Elias  Huybrechts"
   },
   {
     "totem": "Lama",
     "price": "29.4",
-    "name": "Pauwels Quinten "
+    "name": "Quinten  Pauwels"
   },
   {
     "totem": "leeuw",
-    "price": "-3.8",
-    "name": " "
+    "price": "-3.8"
   },
   {
     "totem": "papegaai",
-    "price": "46.3",
-    "name": " "
+    "price": "46.3"
   },
   {
     "totem": "Schildpad",
     "price": "12",
-    "name": "Miya Simon "
+    "name": "Simon  Miya"
   },
   {
     "totem": "Smelleken",
     "price": "0",
-    "name": "Jesse De Meulemeester"
+    "name": "De Meulemeester Jesse"
   },
   {
     "totem": "snoek",
     "price": "11",
-    "name": "thomas aerts"
+    "name": "aerts thomas"
   },
   {
     "totem": "streepmuis",
     "price": "47",
-    "name": "Opdebeeck Wies"
+    "name": "Wies Opdebeeck"
   },
   {
     "totem": "Wolf",
     "price": "75.4",
-    "name": "Van Vliet Wiebe"
+    "name": "Wiebe Van Vliet"
   },
   {
     "totem": "Zeehond",
     "price": "24",
-    "name": "Vanooteghem Kobe"
+    "name": "Kobe Vanooteghem"
   }
 ]
