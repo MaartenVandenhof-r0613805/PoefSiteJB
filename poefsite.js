@@ -19,7 +19,7 @@ showHome();
 $.getJSON("dataHome.json", function (data) {
     data.forEach(function (d) {
         if (d > 0) {
-            totalPoef.style.color = 'lightred';
+            totalPoef.style.color = 'red';
             totalPoef.innerHTML = "-€" + d;
         } else {
             totalPoef.style.color = 'limegreen';
@@ -33,16 +33,22 @@ function setSelect() {
         selectPerson.innerHTML = "";
         var options = document.createElement('option');
         data.forEach(function (d) {
+            if (d.Totem == "NA ") {
+                console.log(d)
+                console.log("Testtesttest")
+            }
+
             options = document.createElement('option');
             if (d.Tak == selected) {
-                if (preference == "Totem") {
+                if (preference == "Totem" && d.Totem != "NA ") {
                     options.innerHTML = d.Totem;
-                } else {
+                    selectPerson.appendChild(options);
+                } else if(d.Naam != undefined) {
                     options.innerHTML = d.Naam;
+                    selectPerson.appendChild(options);
                 }
-
-                selectPerson.appendChild(options);
             }
+
         })
     })
 }
@@ -51,7 +57,7 @@ function setSelect() {
 
 vkButton.onclick = function () {
     resetButtons();
-    vkButton.style.background = "#407ccd";
+    vkButton.style.background = "#0CAD9A";
     vkButton.style.color = "#fff";
     selected = "VK";
     setSelect();
@@ -59,7 +65,7 @@ vkButton.onclick = function () {
 
 lButton.onclick = function () {
     resetButtons();
-    lButton.style.background = "#407ccd";
+    lButton.style.background = "#0CAD9A";
     lButton.style.color = "#fff";
     selected = "L";
     setSelect();
@@ -67,7 +73,7 @@ lButton.onclick = function () {
 
 aButton.onclick = function () {
     resetButtons();
-    aButton.style.background = "#407ccd";
+    aButton.style.background = "#0CAD9A";
     aButton.style.color = "#fff";
     selected = "A";
     setSelect();
@@ -100,21 +106,24 @@ function showPersonal() {
     $.getJSON("personDetails.json", function (data) {
         var price = 0;
         data.forEach(function (d) {
-            
             if (preference == "Totem") {
-                
+
                 if (d.totem == selectedPerson) {
                     price = d.price * -1;
                     document.getElementById("amount").innerHTML = "€" + price;
                 }
             } else {
-                if (d.name == selectedPerson) {
+                var name = "";
+                if (d.name != undefined) {
+                    name = d.name.replace(/\s/g, '').toLocaleLowerCase()
+                }
+                if (name == selectedPerson.replace(/\s/g, '').toLocaleLowerCase()) {
                     price = d.price * -1;
                     document.getElementById("amount").innerHTML = "€" + price;
                 }
             }
         })
-        if(price < 0){
+        if (price < 0) {
             document.getElementById("amount").style.color = 'red';
         } else {
             document.getElementById("amount").style.color = 'limegreen';
@@ -124,11 +133,11 @@ function showPersonal() {
 
 function resetButtons() {
     vkButton.style.background = "#fff";
-    vkButton.style.color = "#407ccd";
+    vkButton.style.color = "#0CAD9A";
     lButton.style.background = "#fff";
-    lButton.style.color = "#407ccd";
+    lButton.style.color = "#0CAD9A";
     aButton.style.background = "#fff";
-    aButton.style.color = "#407ccd";
+    aButton.style.color = "#0CAD9A";
 }
 
 document.getElementById("totemP").onclick = function () {

@@ -79,5 +79,379 @@
     "totem": "Zeehond",
     "price": "24",
     "name": "Kobe Vanooteghem"
+  },
+  {
+    "totem": "Directe Bandro",
+    "price": "2.4",
+    "name": "Hannah Devries"
+  },
+  {
+    "totem": "Ruige Banteng",
+    "price": "85.8",
+    "name": "Van Haaren Thijs"
+  },
+  {
+    "totem": "Gedreven Beermarter",
+    "price": "44.95",
+    "name": "Mrabet Jonas"
+  },
+  {
+    "totem": "Geslepen Coendu",
+    "price": "0.4",
+    "name": "Duez Quinten"
+  },
+  {
+    "totem": "Corvus",
+    "price": "27",
+    "name": "Van Itterbeeck Rob"
+  },
+  {
+    "totem": "Uitdagende Eekhoorn",
+    "price": "17.9",
+    "name": "Vertommen Sander"
+  },
+  {
+    "totem": "Opgetogen Ekster",
+    "price": "56.9",
+    "name": "Vertommen Jannes"
+  },
+  {
+    "totem": "Energieke Fitis",
+    "price": "26.4",
+    "name": "Blommaerts Nele"
+  },
+  {
+    "totem": "Vredige Fodi",
+    "price": "2.47",
+    "name": "De Corte Berre"
+  },
+  {
+    "totem": "Fantasierijke Fodi",
+    "price": "0.6",
+    "name": "Elien Devries"
+  },
+  {
+    "totem": "Gekko",
+    "price": "8.4",
+    "name": "Lien Smets"
+  },
+  {
+    "totem": "Jolige Gibbon",
+    "price": "59.9",
+    "name": "Pijl Jonathan"
+  },
+  {
+    "totem": "aangename Kauw",
+    "price": "15.8",
+    "name": "Cools Jordi"
+  },
+  {
+    "totem": "Kauw (v)",
+    "price": "1.5",
+    "name": " kelly"
+  },
+  {
+    "totem": "Koekoek",
+    "price": "46.6",
+    "name": "Tom Op de Beeck"
+  },
+  {
+    "totem": "Gemeenzame Mus",
+    "price": "180.55",
+    "name": "Blomaerts Seppe"
+  },
+  {
+    "totem": "Bedachtzame Oerang-Oetan",
+    "price": "18.3",
+    "name": "Decorte Kobe"
+  },
+  {
+    "totem": "Komische panda",
+    "price": "93.4",
+    "name": "Mrabet Jordy"
+  },
+  {
+    "totem": "Vinnige Saiga",
+    "price": "43.5",
+    "name": "Punjwani Simon"
+  },
+  {
+    "totem": "Geestdriftige Scholekster",
+    "price": "80",
+    "name": "Vandekerkhove Brecht"
+  },
+  {
+    "totem": "Praatgrage Specht",
+    "price": "-6.14",
+    "name": "Bjarne Pijl"
+  },
+  {
+    "totem": "Volgzame Stekelstaarteekhoorn",
+    "price": "38.17",
+    "name": "Kobe Op De Beeck "
+  },
+  {
+    "totem": "Ijverige Toekan",
+    "price": "-85.86",
+    "name": "Mathias Mrabet"
+  },
+  {
+    "totem": "gemoedelijke veldmuis",
+    "price": "0.6",
+    "name": "van Eester Ellen"
+  },
+  {
+    "totem": "Gedreven Adelaar",
+    "price": "28.6",
+    "name": "Janssens Thomas"
+  },
+  {
+    "totem": "SK Alpaca",
+    "price": "0",
+    "name": "Femke Roels"
+  },
+  {
+    "totem": "Inventieve Alpaca",
+    "price": "-1.4",
+    "name": "Kinne Dag"
+  },
+  {
+    "totem": "Kordate Ara",
+    "price": "-3.3",
+    "name": "Verbeeck Thijs"
+  },
+  {
+    "totem": "Vurige Arakanga",
+    "price": "0",
+    "name": "De Keyser Hanne"
+  },
+  {
+    "totem": "Pientere Arasari",
+    "price": "16.9",
+    "name": "Suykens Michiel"
+  },
+  {
+    "totem": "toegewijde Arend",
+    "price": "-22.66",
+    "name": "De Vos Jelle"
+  },
+  {
+    "totem": "Gemotiveerde Barry",
+    "price": "-0.4",
+    "name": "Sluyts Wannes"
+  },
+  {
+    "totem": "Geestige Carancho",
+    "price": "2.8",
+    "name": "Verstraeten Gert"
+  },
+  {
+    "totem": "Cheetah",
+    "price": "0",
+    "name": "Dageraad Somers"
+  },
+  {
+    "totem": "kas Gidsen",
+    "price": "-34.5",
+    "name": "Gidsen kas"
+  },
+  {
+    "totem": "vreugdevolle Gorilla",
+    "price": "113.3",
+    "name": "Gommers Koen"
+  },
+  {
+    "totem": "Parate hazewind",
+    "price": "-1.4",
+    "name": "Vertommen Marijke"
+  },
+  {
+    "totem": "Parate Jako",
+    "price": "-0.00999999999999",
+    "name": "Hendrickx Bert"
+  },
+  {
+    "totem": "Openhartige Kaketoe",
+    "price": "-15.8",
+    "name": "Van Den Bosch Sander"
+  },
+  {
+    "totem": "Kameel",
+    "price": "0",
+    "name": "De Keyser Sarah"
+  },
+  {
+    "totem": "kanarie",
+    "price": "0",
+    "name": "krey khey"
+  },
+  {
+    "totem": "Enthousiaste Kangoeroe",
+    "price": "-0.3",
+    "name": "Mollemans Bram"
+  },
+  {
+    "totem": "Opgewekte Kapucijnaap",
+    "price": "-22.5",
+    "name": "Cloet Evert"
+  },
+  {
+    "totem": "Kariboe",
+    "price": "0",
+    "name": "Nathalie Moeyersons"
+  },
+  {
+    "totem": "Rustige Katfret",
+    "price": "0",
+    "name": "Somers Casper"
+  },
+  {
+    "totem": "kraanvogel",
+    "price": "0"
+  },
+  {
+    "totem": "Oprechte Loewak",
+    "price": "6",
+    "name": " Nathalie Verhaeren"
+  },
+  {
+    "totem": "geslepen Lori",
+    "price": "0",
+    "name": "Romanus Ward"
+  },
+  {
+    "totem": "Flamboyante Maraboe",
+    "price": "0.3",
+    "name": "Verbeeck Mattias"
+  },
+  {
+    "totem": "Kwieke Maraboe",
+    "price": "-43.8",
+    "name": "Van Baden Steven"
+  },
+  {
+    "totem": "Verstrooide Markhoor",
+    "price": "18",
+    "name": "Van Eekert Bram"
+  },
+  {
+    "totem": "Ondeugende Moeflon",
+    "price": "10",
+    "name": "Heylen Bram"
+  },
+  {
+    "totem": "Zorgeloze Olifant",
+    "price": "46.84",
+    "name": "Renkin Thomas"
+  },
+  {
+    "totem": "opendeurdag opendeurdag",
+    "price": "0",
+    "name": "opendeurdag opendeurdag"
+  },
+  {
+    "totem": "Vrijmoedige Panda",
+    "price": "48.8",
+    "name": "Sas Wim"
+  },
+  {
+    "totem": "saki",
+    "price": "12",
+    "name": "melanie "
+  },
+  {
+    "totem": "Gemoedelijke Saterhoen",
+    "price": "16.8",
+    "name": "Maarten Van den Hof"
+  },
+  {
+    "totem": "Beheerste Schaarbek",
+    "price": "-48",
+    "name": "Huber Thomas"
+  },
+  {
+    "totem": "Oprechte Secretarisvogel",
+    "price": "-15.6",
+    "name": "Vandenschilden Jan"
+  },
+  {
+    "totem": "Sociale Serval",
+    "price": "39.89",
+    "name": "Mertens Toon"
+  },
+  {
+    "totem": "Siamang",
+    "price": "-0.4",
+    "name": "De Cock Raj"
+  },
+  {
+    "totem": "Sociale Sifaka",
+    "price": "12",
+    "name": "Van Tricht Senne"
+  },
+  {
+    "totem": "Aangename Sikahert",
+    "price": "0",
+    "name": "Rombauts Bart"
+  },
+  {
+    "totem": "behendige Spinaap",
+    "price": "11.3",
+    "name": "Van den Bosch Wannes"
+  },
+  {
+    "totem": "Energieke Spitsvogel",
+    "price": "22.99",
+    "name": "Planckaert Rens"
+  },
+  {
+    "totem": "tevreden Spreeuw",
+    "price": "-20.8",
+    "name": "Tjoen Thomas"
+  },
+  {
+    "totem": "Gezellige Steenbok",
+    "price": "-4.6",
+    "name": "Sluyts Lotte"
+  },
+  {
+    "totem": "Assertieve Steenbok",
+    "price": "0",
+    "name": "Moeyersons Thomas"
+  },
+  {
+    "totem": "Stekelstaarteekhoorn (v)",
+    "price": "-17.6",
+    "name": "De Vos Joke"
+  },
+  {
+    "totem": "doordachte stokstaart",
+    "price": "33.8",
+    "name": "van Eekert Maarten"
+  },
+  {
+    "totem": "Clevere Suricata",
+    "price": "0",
+    "name": "Verlinden Katrien"
+  },
+  {
+    "totem": "Guitige Tagoean",
+    "price": "0.00999999999999",
+    "name": "Van Aken Nick"
+  },
+  {
+    "totem": "Drukke Tupaja",
+    "price": "37.83",
+    "name": "Janssens Michiel"
+  },
+  {
+    "totem": "Gelaten Wasbeer",
+    "price": "-87.1",
+    "name": "Henderickx Ward"
+  },
+  {
+    "totem": "Wisent",
+    "price": "4.4",
+    "name": "De Burghgraeve Kasper"
   }
 ]

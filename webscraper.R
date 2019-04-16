@@ -120,5 +120,21 @@ totemsA <- cbind(totemsA, "A")
 colnames(totemsA) <- c("Value", "Naam", "Totem", "Tak")
 totems <- rbind(totems, totemsA)
 
+totemsC <- sapply(totems$Totem, function(x){
+  td <- strsplit(gsub(",", "", x), " ")
+  td <- as.data.frame(td)
+  if(is.na(td[2,])){
+    td <- paste(td[1,], "")
+  } 
+  else if(td[2,] == "(v)"){
+    td <- paste(td[1,], td[2,])
+  } else {
+    td <- paste(td[2,], td[1,])
+  }
+  
+})
+totemsC <- as.data.frame(totemsC)
+totems$Totem <- totemsC$totemsC
+
 jsonFile <- toJSON(totems, pretty = TRUE)
 write(jsonFile, "dataTotems.json")
