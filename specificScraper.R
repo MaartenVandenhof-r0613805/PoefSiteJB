@@ -16,7 +16,7 @@ numextract <- function(string){
 
 rd <- rsDriver(port=4444L, browser = "chrome", chromever="73.0.3683.68")
 rem_dr <- rd[["client"]]
-completeDetailsList <- data.frame("totem" = as.character(), "price" = as.character(), "name" = as.character())
+completeDetailsList <- list()
 
 urlVK <- "http://scoutsjanbreydel.be/poefsite/index.php?pagina=kiesNaam.php&tak=V"
 urlL <- "http://scoutsjanbreydel.be/poefsite/index.php?pagina=kiesNaam.php&tak=L"
@@ -65,59 +65,10 @@ urlA <- "http://scoutsjanbreydel.be/poefsite/index.php?pagina=kiesNaam.php&tak=A
       name <- name[1,]
       
       #CREATE LISTS
-      centerNodes <-  html_nodes(html, "center")
-      centerNodes <- sapply(centerNodes, function(x){
-        t <- cleanFun(x)
-        t<- str_replace_all(t, "[\r\n]" , "")
-        t<- trimws(t)
-      })
-      notAllowed <- head(centerNodes, 4)
-      centerNodes <- as.data.frame(centerNodes)
-      centerNodes <- centerNodes[!(centerNodes$centerNodes %in% notAllowed),]
+      createTableLists()
       
-      dateT <- data.frame()
-      amount <- data.frame()
-      for(x in centerNodes[38:57]){
-        t <- as.character(x)
-        t <- as.data.frame(t)
-        if(grepl("-", t$t)){
-          dateT <- rbind(dateT, t)
-        } else if(!grepl("/", t$t) && !grepl("-", t$t)) {
-          amount <- rbind(amount, t)
-        }
-      }
-      bakken <- cbind(dateT, amount)
-      
-      
-      dateT <- data.frame()
-      amount <- data.frame()
-      for(x in centerNodes[61:80]){
-        t <- as.character(x)
-        t <- as.data.frame(t)
-        if(grepl("[a-zA-Z]", t$t)){
-          dateT <- rbind(dateT, t)
-        } else if(grepl("[0-9]+[.[0-9]+]?", t$t)) {
-          amount <- rbind(amount, t)
-        }
-      }
-      andereKosten <- cbind(dateT, amount)
-      
-      
-      dateT <- data.frame()
-      amount <- data.frame()
-      for(x in centerNodes[84:103]){
-        t <- as.character(x)
-        t <- as.data.frame(t)
-        if(grepl("-", t$t)){
-          dateT <- rbind(dateT, t)
-        } else if(!grepl("/", t$t) && !grepl("-", t$t)) {
-          amount <- rbind(amount, t)
-        }
-      }
-      betalingen <- cbind(dateT, amount)
-      
-      tablesList <- list("totem" = totem, "price" = price, "name" = name,"bakken" = bakken, "andereKosten" = andereKosten, "betalingen" = betalingen)
-      longDLists <- append(longDLists, tablesList)
+      tablesList <- list("totem" = totem, "price" = price, "name" = name,"bakken" = list(bakken), "andereKosten" = list(andereKosten), "betalingen" = list(betalingen))
+      longDLists[[length(longDLists)+1]] <- tablesList
       row <- cbind(totem, price)
       row <- cbind(row, name)
 
@@ -126,10 +77,11 @@ urlA <- "http://scoutsjanbreydel.be/poefsite/index.php?pagina=kiesNaam.php&tak=A
     rem_dr$navigate(urlVK)
   }
   
-completeDetailsList <- rbind(completeDetailsList, detailsList)
+completeDetailsList <- append(completeDetailsList, longDLists)
 
-
+#Start of L
 detailsList <- data.frame()
+longDLists <- list()
 rem_dr$navigate(urlL)
 webElem <- rem_dr$findElement("name", "totem")
 webElem <-webElem$selectTag()
@@ -169,17 +121,82 @@ for(i in 1:length(webElem$text)){  #length(webElem$text)
     name <- as.data.frame(name)
     name <- name[1,]
     
+    #CREATE LISTS
+    centerNodes <-  html_nodes(html, "center")
+    centerNodes <- sapply(centerNodes, function(x){
+      t <- cleanFun(x)
+      t <- str_replace_all(t, "[\r\n]" , "")
+      t <- trimws(t)
+    })
+    notAllowed <- head(centerNodes, 4)
+    centerNodes <- as.data.frame(centerNodes)
+    centerNodes <- centerNodes[!(centerNodes$centerNodes %in% notAllowed),]
+    
+    dateT <- data.frame()
+    amount <- data.frame()
+    for(x in centerNodes[38:57]){
+      t <- as.character(x)
+      t <- as.data.frame(t)
+      if(grepl("-", t$t)){
+        dateT <- rbind(dateT, t)
+      } else if(!grepl("/", t$t) && !grepl("-", t$t)) {
+        amount <- rbind(amount, t)
+      }
+    }
+    bakken <- cbind(dateT, amount)
+    if(nrow(bakken != 0)){
+      names(bakken) <- c("date", "amount")
+    }
+    
+    
+    dateT <- data.frame()
+    amount <- data.frame()
+    for(x in centerNodes[61:80]){
+      t <- as.character(x)
+      t <- as.data.frame(t)
+      if(grepl("[0-9]+[.[0-9]+]?", t$t) && grepl("\\.", t$t)){
+        amount <- rbind(amount, t)
+      } else if(!t$t == "/") {
+        dateT <- rbind(dateT, t)
+      }
+    }
+    andereKosten <- cbind(dateT, amount)
+    if(nrow(andereKosten != 0)){
+      names(andereKosten) <- c("date", "amount")
+    }
+    
+    dateT <- data.frame()
+    amount <- data.frame()
+    for(x in centerNodes[84:103]){
+      t <- as.character(x)
+      t <- as.data.frame(t)
+      if(grepl("-", t$t)){
+        dateT <- rbind(dateT, t)
+      } else if(!grepl("/", t$t) && !grepl("-", t$t)) {
+        amount <- rbind(amount, t)
+      }
+    }
+    betalingen <- cbind(dateT, amount)
+    if(nrow(betalingen != 0)){
+      names(betalingen) <- c("date", "amount")
+    }
+    
+    tablesList <- list("totem" = totem, "price" = price, "name" = name,"bakken" = list(bakken), "andereKosten" = list(andereKosten), "betalingen" = list(betalingen))
+    longDLists[[length(longDLists)+1]] <- tablesList
     row <- cbind(totem, price)
     row <- cbind(row, name)
+    
     detailsList <- rbind(detailsList, as.data.frame(row))
+    
+    
   }
   rem_dr$navigate(urlL)
 }
 
-completeDetailsList <- rbind(completeDetailsList, detailsList)
+completeDetailsList <- append(completeDetailsList, longDLists)
 
-
-detailsList <- data.frame()
+detailsList <- data.frame()  
+longDLists <- list()
 rem_dr$navigate(urlA)
 webElem <- rem_dr$findElement("name", "totem")
 webElem <-webElem$selectTag()
@@ -219,6 +236,69 @@ for(i in 1:length(webElem$text)){  #length(webElem$text)
     name <- as.data.frame(name)
     name <- name[1,]
     
+    #CREATE LISTS
+    centerNodes <-  html_nodes(html, "center")
+    centerNodes <- sapply(centerNodes, function(x){
+      t <- cleanFun(x)
+      t <- str_replace_all(t, "[\r\n]" , "")
+      t <- trimws(t)
+    })
+    notAllowed <- head(centerNodes, 4)
+    centerNodes <- as.data.frame(centerNodes)
+    centerNodes <- centerNodes[!(centerNodes$centerNodes %in% notAllowed),]
+    
+    dateT <- data.frame()
+    amount <- data.frame()
+    for(x in centerNodes[38:57]){
+      t <- as.character(x)
+      t <- as.data.frame(t)
+      if(grepl("-", t$t)){
+        dateT <- rbind(dateT, t)
+      } else if(!grepl("/", t$t) && !grepl("-", t$t)) {
+        amount <- rbind(amount, t)
+      }
+    }
+    bakken <- cbind(dateT, amount)
+    if(nrow(bakken != 0)){
+      names(bakken) <- c("date", "amount")
+    }
+    
+    
+    dateT <- data.frame()
+    amount <- data.frame()
+    for(x in centerNodes[61:80]){
+      t <- as.character(x)
+      t <- as.data.frame(t)
+      if(grepl("[0-9]+[.[0-9]+]?", t$t) && grepl("\\.", t$t)){
+        amount <- rbind(amount, t)
+      } else if(!t$t == "/") {
+        dateT <- rbind(dateT, t)
+      }
+    }
+    andereKosten <- cbind(dateT, amount)
+    if(nrow(andereKosten != 0)){
+      names(andereKosten) <- c("date", "amount")
+    }
+    
+    dateT <- data.frame()
+    amount <- data.frame()
+    for(x in centerNodes[84:103]){
+      t <- as.character(x)
+      t <- as.data.frame(t)
+      if(grepl("-", t$t)){
+        dateT <- rbind(dateT, t)
+      } else if(!grepl("/", t$t) && !grepl("-", t$t)) {
+        amount <- rbind(amount, t)
+      }
+    }
+    betalingen <- cbind(dateT, amount)
+    if(nrow(betalingen != 0)){
+      names(betalingen) <- c("date", "amount")
+    }
+    
+    tablesList <- list("totem" = totem, "price" = price, "name" = name,"bakken" = list(bakken), "andereKosten" = list(andereKosten), "betalingen" = list(betalingen))
+    longDLists[[length(longDLists)+1]] <- tablesList
+    
     row <- cbind(totem, price)
     row <- cbind(row, name)
     detailsList <- rbind(detailsList, as.data.frame(row))
@@ -226,8 +306,7 @@ for(i in 1:length(webElem$text)){  #length(webElem$text)
   rem_dr$navigate(urlA)
 }
 
-completeDetailsList <- rbind(completeDetailsList, detailsList)
-
+completeDetailsList <- append(completeDetailsList, longDLists)
 personDetails <- toJSON(completeDetailsList, pretty = TRUE)
 write(personDetails, "personDetails.json")
 
@@ -271,7 +350,7 @@ sendBtn <- rem_dr$findElement("name", "totems")
     }
   }
   bakken <- cbind(dateT, amount)
-  
+  names(bakken) <- c("date", "amount")
   
   dateT <- data.frame()
   amount <- data.frame()
@@ -285,7 +364,7 @@ sendBtn <- rem_dr$findElement("name", "totems")
     }
   }
   andereKosten <- cbind(dateT, amount)
-  
+  names(andereKosten) <- c("date", "amount")
   
   dateT <- data.frame()
   amount <- data.frame()
@@ -299,6 +378,73 @@ sendBtn <- rem_dr$findElement("name", "totems")
     }
   }
   betalingen <- cbind(dateT, amount)
+  names(betalingen) <- c("date", "amount")
 
 jsonList <- toJSON(longDLists, pretty = TRUE, auto_unbox = TRUE)
 write(jsonList, "testJsonList.json")
+
+
+
+
+
+
+createTableLists <- function(){
+  centerNodes <-  html_nodes(html, "center")
+  centerNodes <- sapply(centerNodes, function(x){
+    t <- cleanFun(x)
+    t <- str_replace_all(t, "[\r\n]" , "")
+    t <- trimws(t)
+  })
+  notAllowed <- head(centerNodes, 4)
+  centerNodes <- as.data.frame(centerNodes)
+  centerNodes <- centerNodes[!(centerNodes$centerNodes %in% notAllowed),]
+  
+  dateT <- data.frame()
+  amount <- data.frame()
+  for(x in centerNodes[38:57]){
+    t <- as.character(x)
+    t <- as.data.frame(t)
+    if(grepl("-", t$t)){
+      dateT <- rbind(dateT, t)
+    } else if(!grepl("/", t$t) && !grepl("-", t$t)) {
+      amount <- rbind(amount, t)
+    }
+  }
+  bakken <- cbind(dateT, amount)
+  if(nrow(bakken != 0)){
+    names(bakken) <- c("date", "amount")
+  }
+  
+  
+  dateT <- data.frame()
+  amount <- data.frame()
+  for(x in centerNodes[61:80]){
+    t <- as.character(x)
+    t <- as.data.frame(t)
+    if(grepl("[0-9]+[.[0-9]+]?", t$t) && grepl("\\.", t$t)){
+      amount <- rbind(amount, t)
+    } else if(!t$t == "/") {
+      dateT <- rbind(dateT, t)
+    }
+  }
+  andereKosten <- cbind(dateT, amount)
+  if(nrow(andereKosten != 0)){
+    names(andereKosten) <- c("date", "amount")
+  }
+  
+  dateT <- data.frame()
+  amount <- data.frame()
+  for(x in centerNodes[84:103]){
+    t <- as.character(x)
+    t <- as.data.frame(t)
+    if(grepl("-", t$t)){
+      dateT <- rbind(dateT, t)
+    } else if(!grepl("/", t$t) && !grepl("-", t$t)) {
+      amount <- rbind(amount, t)
+    }
+  }
+  betalingen <- cbind(dateT, amount)
+  if(nrow(betalingen != 0)){
+    names(betalingen) <- c("date", "amount")
+  }
+}

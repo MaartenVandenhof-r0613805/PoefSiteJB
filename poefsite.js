@@ -28,9 +28,6 @@ $.getJSON("dataHome.json", function (data) {
     })
 })
 
-$.getJSON("testJsonList.json", function (data) {
-    console.log(data)
-})
 
 
 function setSelect() {
@@ -38,17 +35,12 @@ function setSelect() {
         selectPerson.innerHTML = "";
         var options = document.createElement('option');
         data.forEach(function (d) {
-            if (d.Totem == "NA ") {
-                console.log(d)
-                console.log("Testtesttest")
-            }
-
             options = document.createElement('option');
             if (d.Tak == selected) {
                 if (preference == "Totem" && d.Totem != "NA ") {
                     options.innerHTML = d.Totem;
                     selectPerson.appendChild(options);
-                } else if(d.Naam != undefined) {
+                } else if (d.Naam != undefined) {
                     options.innerHTML = d.Naam;
                     selectPerson.appendChild(options);
                 }
@@ -112,19 +104,51 @@ function showPersonal() {
         var price = 0;
         data.forEach(function (d) {
             if (preference == "Totem") {
-
-                if (d.totem == selectedPerson) {
-                    price = d.price * -1;
+                console.log(d)
+                if (d.totem[0].totem == selectedPerson) {
+                    price = d.price[0].price * -1;
                     document.getElementById("amount").innerHTML = "€" + price;
+                    var table = document.getElementById("lastBeer");
+                    table.innerHTML = "";
+                    d.bakken[0].forEach(function (b) {
+                        var td1 = document.createElement('td');
+                        var td2 = document.createElement('td');
+                        var tr = document.createElement('tr');
+                        td1.innerHTML = b.date;
+                        td2.innerHTML = b.amount;
+                        td1.classList = "left";
+                        td2.classList = "right";
+                        tr.append(td1, td2);
+                        console.log(b)
+                        table.appendChild(tr);
+                    })
                 }
             } else {
                 var name = "";
-                if (d.name != undefined) {
-                    name = d.name.replace(/\s/g, '').toLocaleLowerCase()
+
+                if (d.name[0] != null && d.name[0] != undefined) {
+                    name = d.name[0].replace(/\s/g, '').toLocaleLowerCase()
                 }
                 if (name == selectedPerson.replace(/\s/g, '').toLocaleLowerCase()) {
-                    price = d.price * -1;
+
+                    price = d.price[0].price * -1;
                     document.getElementById("amount").innerHTML = "€" + price;
+                    var table = document.getElementById("lastBeer");
+                    table.innerHTML = "";
+
+                    d.bakken[0].forEach(function (b) {
+                        var td1 = document.createElement('td');
+                        var td2 = document.createElement('td');
+                        var tr = document.createElement('tr');
+                        td1.innerHTML = b.date;
+                        td2.innerHTML = b.amount;
+                        td1.classList = "left";
+                        td2.classList = "right";
+                        tr.append(td1, td2);
+                        console.log(b)
+                        table.appendChild(tr);
+                    })
+
                 }
             }
         })

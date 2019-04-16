@@ -1,457 +1,7576 @@
 [
   {
-    "totem": "Agame",
-    "price": "-3.4",
-    "name": "Rune Decorte"
-  },
-  {
-    "totem": "Buffel",
-    "price": "23"
-  },
-  {
-    "totem": "Coati",
-    "price": "0",
-    "name": "Jari Sijbers"
-  },
-  {
-    "totem": "Flamingo",
-    "price": "48",
-    "name": "Thomas  Van Eekert"
-  },
-  {
-    "totem": "fret",
-    "price": "11.3",
-    "name": "Op de beeck lode"
-  },
-  {
-    "totem": "Gazelle",
-    "price": "-5.4",
-    "name": "Viktor  Van Rompuy"
-  },
-  {
-    "totem": "kameloen",
-    "price": "50"
-  },
-  {
-    "totem": "Labrador",
-    "price": "1",
-    "name": "Elias  Huybrechts"
-  },
-  {
-    "totem": "Lama",
-    "price": "29.4",
-    "name": "Quinten  Pauwels"
-  },
-  {
-    "totem": "leeuw",
-    "price": "-3.8"
-  },
-  {
-    "totem": "papegaai",
-    "price": "46.3"
-  },
-  {
-    "totem": "Schildpad",
-    "price": "12",
-    "name": "Simon  Miya"
-  },
-  {
-    "totem": "Smelleken",
-    "price": "0",
-    "name": "De Meulemeester Jesse"
-  },
-  {
-    "totem": "snoek",
-    "price": "11",
-    "name": "aerts thomas"
-  },
-  {
-    "totem": "streepmuis",
-    "price": "47",
-    "name": "Wies Opdebeeck"
-  },
-  {
-    "totem": "Wolf",
-    "price": "75.4",
-    "name": "Wiebe Van Vliet"
-  },
-  {
-    "totem": "Zeehond",
-    "price": "24",
-    "name": "Kobe Vanooteghem"
-  },
-  {
-    "totem": "Directe Bandro",
-    "price": "2.4",
-    "name": "Hannah Devries"
-  },
-  {
-    "totem": "Ruige Banteng",
-    "price": "85.8",
-    "name": "Van Haaren Thijs"
-  },
-  {
-    "totem": "Gedreven Beermarter",
-    "price": "44.95",
-    "name": "Mrabet Jonas"
-  },
-  {
-    "totem": "Geslepen Coendu",
-    "price": "0.4",
-    "name": "Duez Quinten"
-  },
-  {
-    "totem": "Corvus",
-    "price": "27",
-    "name": "Van Itterbeeck Rob"
-  },
-  {
-    "totem": "Uitdagende Eekhoorn",
-    "price": "17.9",
-    "name": "Vertommen Sander"
-  },
-  {
-    "totem": "Opgetogen Ekster",
-    "price": "56.9",
-    "name": "Vertommen Jannes"
-  },
-  {
-    "totem": "Energieke Fitis",
-    "price": "26.4",
-    "name": "Blommaerts Nele"
-  },
-  {
-    "totem": "Vredige Fodi",
-    "price": "2.47",
-    "name": "De Corte Berre"
-  },
-  {
-    "totem": "Fantasierijke Fodi",
-    "price": "0.6",
-    "name": "Elien Devries"
-  },
-  {
-    "totem": "Gekko",
-    "price": "8.4",
-    "name": "Lien Smets"
-  },
-  {
-    "totem": "Jolige Gibbon",
-    "price": "59.9",
-    "name": "Pijl Jonathan"
-  },
-  {
-    "totem": "aangename Kauw",
-    "price": "15.8",
-    "name": "Cools Jordi"
-  },
-  {
-    "totem": "Kauw (v)",
-    "price": "1.5",
-    "name": " kelly"
-  },
-  {
-    "totem": "Koekoek",
-    "price": "46.6",
-    "name": "Tom Op de Beeck"
-  },
-  {
-    "totem": "Gemeenzame Mus",
-    "price": "180.55",
-    "name": "Blomaerts Seppe"
-  },
-  {
-    "totem": "Bedachtzame Oerang-Oetan",
-    "price": "18.3",
-    "name": "Decorte Kobe"
-  },
-  {
-    "totem": "Komische panda",
-    "price": "93.4",
-    "name": "Mrabet Jordy"
-  },
-  {
-    "totem": "Vinnige Saiga",
-    "price": "43.5",
-    "name": "Punjwani Simon"
-  },
-  {
-    "totem": "Geestdriftige Scholekster",
-    "price": "80",
-    "name": "Vandekerkhove Brecht"
-  },
-  {
-    "totem": "Praatgrage Specht",
-    "price": "-6.14",
-    "name": "Bjarne Pijl"
-  },
-  {
-    "totem": "Volgzame Stekelstaarteekhoorn",
-    "price": "38.17",
-    "name": "Kobe Op De Beeck "
-  },
-  {
-    "totem": "Ijverige Toekan",
-    "price": "-85.86",
-    "name": "Mathias Mrabet"
-  },
-  {
-    "totem": "gemoedelijke veldmuis",
-    "price": "0.6",
-    "name": "van Eester Ellen"
-  },
-  {
-    "totem": "Gedreven Adelaar",
-    "price": "28.6",
-    "name": "Janssens Thomas"
-  },
-  {
-    "totem": "SK Alpaca",
-    "price": "0",
-    "name": "Femke Roels"
-  },
-  {
-    "totem": "Inventieve Alpaca",
-    "price": "-1.4",
-    "name": "Kinne Dag"
-  },
-  {
-    "totem": "Kordate Ara",
-    "price": "-3.3",
-    "name": "Verbeeck Thijs"
-  },
-  {
-    "totem": "Vurige Arakanga",
-    "price": "0",
-    "name": "De Keyser Hanne"
-  },
-  {
-    "totem": "Pientere Arasari",
-    "price": "16.9",
-    "name": "Suykens Michiel"
-  },
-  {
-    "totem": "toegewijde Arend",
-    "price": "-22.66",
-    "name": "De Vos Jelle"
-  },
-  {
-    "totem": "Gemotiveerde Barry",
-    "price": "-0.4",
-    "name": "Sluyts Wannes"
-  },
-  {
-    "totem": "Geestige Carancho",
-    "price": "2.8",
-    "name": "Verstraeten Gert"
-  },
-  {
-    "totem": "Cheetah",
-    "price": "0",
-    "name": "Dageraad Somers"
-  },
-  {
-    "totem": "kas Gidsen",
-    "price": "-34.5",
-    "name": "Gidsen kas"
-  },
-  {
-    "totem": "vreugdevolle Gorilla",
-    "price": "113.3",
-    "name": "Gommers Koen"
-  },
-  {
-    "totem": "Parate hazewind",
-    "price": "-1.4",
-    "name": "Vertommen Marijke"
-  },
-  {
-    "totem": "Parate Jako",
-    "price": "-0.00999999999999",
-    "name": "Hendrickx Bert"
-  },
-  {
-    "totem": "Openhartige Kaketoe",
-    "price": "-15.8",
-    "name": "Van Den Bosch Sander"
-  },
-  {
-    "totem": "Kameel",
-    "price": "0",
-    "name": "De Keyser Sarah"
-  },
-  {
-    "totem": "kanarie",
-    "price": "0",
-    "name": "krey khey"
-  },
-  {
-    "totem": "Enthousiaste Kangoeroe",
-    "price": "-0.3",
-    "name": "Mollemans Bram"
-  },
-  {
-    "totem": "Opgewekte Kapucijnaap",
-    "price": "-22.5",
-    "name": "Cloet Evert"
-  },
-  {
-    "totem": "Kariboe",
-    "price": "0",
-    "name": "Nathalie Moeyersons"
-  },
-  {
-    "totem": "Rustige Katfret",
-    "price": "0",
-    "name": "Somers Casper"
-  },
-  {
-    "totem": "kraanvogel",
-    "price": "0"
-  },
-  {
-    "totem": "Oprechte Loewak",
-    "price": "6",
-    "name": " Nathalie Verhaeren"
-  },
-  {
-    "totem": "geslepen Lori",
-    "price": "0",
-    "name": "Romanus Ward"
-  },
-  {
-    "totem": "Flamboyante Maraboe",
-    "price": "0.3",
-    "name": "Verbeeck Mattias"
-  },
-  {
-    "totem": "Kwieke Maraboe",
-    "price": "-43.8",
-    "name": "Van Baden Steven"
-  },
-  {
-    "totem": "Verstrooide Markhoor",
-    "price": "18",
-    "name": "Van Eekert Bram"
-  },
-  {
-    "totem": "Ondeugende Moeflon",
-    "price": "10",
-    "name": "Heylen Bram"
-  },
-  {
-    "totem": "Zorgeloze Olifant",
-    "price": "46.84",
-    "name": "Renkin Thomas"
-  },
-  {
-    "totem": "opendeurdag opendeurdag",
-    "price": "0",
-    "name": "opendeurdag opendeurdag"
-  },
-  {
-    "totem": "Vrijmoedige Panda",
-    "price": "48.8",
-    "name": "Sas Wim"
-  },
-  {
-    "totem": "saki",
-    "price": "12",
-    "name": "melanie "
-  },
-  {
-    "totem": "Gemoedelijke Saterhoen",
-    "price": "16.8",
-    "name": "Maarten Van den Hof"
-  },
-  {
-    "totem": "Beheerste Schaarbek",
-    "price": "-48",
-    "name": "Huber Thomas"
-  },
-  {
-    "totem": "Oprechte Secretarisvogel",
-    "price": "-15.6",
-    "name": "Vandenschilden Jan"
-  },
-  {
-    "totem": "Sociale Serval",
-    "price": "39.89",
-    "name": "Mertens Toon"
-  },
-  {
-    "totem": "Siamang",
-    "price": "-0.4",
-    "name": "De Cock Raj"
-  },
-  {
-    "totem": "Sociale Sifaka",
-    "price": "12",
-    "name": "Van Tricht Senne"
-  },
-  {
-    "totem": "Aangename Sikahert",
-    "price": "0",
-    "name": "Rombauts Bart"
-  },
-  {
-    "totem": "behendige Spinaap",
-    "price": "11.3",
-    "name": "Van den Bosch Wannes"
-  },
-  {
-    "totem": "Energieke Spitsvogel",
-    "price": "22.99",
-    "name": "Planckaert Rens"
-  },
-  {
-    "totem": "tevreden Spreeuw",
-    "price": "-20.8",
-    "name": "Tjoen Thomas"
-  },
-  {
-    "totem": "Gezellige Steenbok",
-    "price": "-4.6",
-    "name": "Sluyts Lotte"
-  },
-  {
-    "totem": "Assertieve Steenbok",
-    "price": "0",
-    "name": "Moeyersons Thomas"
-  },
-  {
-    "totem": "Stekelstaarteekhoorn (v)",
-    "price": "-17.6",
-    "name": "De Vos Joke"
-  },
-  {
-    "totem": "doordachte stokstaart",
-    "price": "33.8",
-    "name": "van Eekert Maarten"
-  },
-  {
-    "totem": "Clevere Suricata",
-    "price": "0",
-    "name": "Verlinden Katrien"
-  },
-  {
-    "totem": "Guitige Tagoean",
-    "price": "0.00999999999999",
-    "name": "Van Aken Nick"
-  },
-  {
-    "totem": "Drukke Tupaja",
-    "price": "37.83",
-    "name": "Janssens Michiel"
-  },
-  {
-    "totem": "Gelaten Wasbeer",
-    "price": "-87.1",
-    "name": "Henderickx Ward"
-  },
-  {
-    "totem": "Wisent",
-    "price": "4.4",
-    "name": "De Burghgraeve Kasper"
+    "totem": [
+      {
+        "totem": "Agame"
+      }
+    ],
+    "price": [
+      {
+        "price": "-3.4"
+      }
+    ],
+    "name": ["Rune Decorte"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Buffel"
+      }
+    ],
+    "price": [
+      {
+        "price": "23"
+      }
+    ],
+    "name": [null],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Coati"
+      }
+    ],
+    "price": [
+      {
+        "price": "0"
+      }
+    ],
+    "name": ["Jari Sijbers"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Flamingo"
+      }
+    ],
+    "price": [
+      {
+        "price": "48"
+      }
+    ],
+    "name": ["Thomas  Van Eekert"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "fret"
+      }
+    ],
+    "price": [
+      {
+        "price": "11.3"
+      }
+    ],
+    "name": ["Op de beeck lode"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Gazelle"
+      }
+    ],
+    "price": [
+      {
+        "price": "-5.4"
+      }
+    ],
+    "name": ["Viktor  Van Rompuy"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "kameloen"
+      }
+    ],
+    "price": [
+      {
+        "price": "50"
+      }
+    ],
+    "name": [null],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Labrador"
+      }
+    ],
+    "price": [
+      {
+        "price": "1"
+      }
+    ],
+    "name": ["Elias  Huybrechts"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Lama"
+      }
+    ],
+    "price": [
+      {
+        "price": "29.4"
+      }
+    ],
+    "name": ["Quinten  Pauwels"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "leeuw"
+      }
+    ],
+    "price": [
+      {
+        "price": "-3.8"
+      }
+    ],
+    "name": [null],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "papegaai"
+      }
+    ],
+    "price": [
+      {
+        "price": "46.3"
+      }
+    ],
+    "name": [null],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Schildpad"
+      }
+    ],
+    "price": [
+      {
+        "price": "12"
+      }
+    ],
+    "name": ["Simon  Miya"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Smelleken"
+      }
+    ],
+    "price": [
+      {
+        "price": "0"
+      }
+    ],
+    "name": ["De Meulemeester Jesse"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "snoek"
+      }
+    ],
+    "price": [
+      {
+        "price": "11"
+      }
+    ],
+    "name": ["aerts thomas"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "streepmuis"
+      }
+    ],
+    "price": [
+      {
+        "price": "47"
+      }
+    ],
+    "name": ["Wies Opdebeeck"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Wolf"
+      }
+    ],
+    "price": [
+      {
+        "price": "75.4"
+      }
+    ],
+    "name": ["Wiebe Van Vliet"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Zeehond"
+      }
+    ],
+    "price": [
+      {
+        "price": "24"
+      }
+    ],
+    "name": ["Kobe Vanooteghem"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Directe Bandro"
+      }
+    ],
+    "price": [
+      {
+        "price": "2.4"
+      }
+    ],
+    "name": ["Hannah Devries"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-02-04",
+          "amount": "3.00"
+        },
+        {
+          "date": "2019-02-03",
+          "amount": "9.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Ruige Banteng"
+      }
+    ],
+    "price": [
+      {
+        "price": "85.8"
+      }
+    ],
+    "name": ["Van Haaren Thijs"],
+    "bakken": [
+      [
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "84.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "36.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-07-14",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-02-18",
+          "amount": "25.00"
+        },
+        {
+          "date": "2019-02-03",
+          "amount": "80.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "40.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "50.00"
+        },
+        {
+          "date": "2018-08-31",
+          "amount": "50.00"
+        },
+        {
+          "date": "2018-05-07",
+          "amount": "105.00"
+        },
+        {
+          "date": "2017-10-16",
+          "amount": "90.00"
+        },
+        {
+          "date": "2017-07-04",
+          "amount": "21.00"
+        },
+        {
+          "date": "2016-07-15",
+          "amount": "30.00"
+        },
+        {
+          "date": "2015-07-10",
+          "amount": "21.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Gedreven Beermarter"
+      }
+    ],
+    "price": [
+      {
+        "price": "44.95"
+      }
+    ],
+    "name": ["Mrabet Jonas"],
+    "bakken": [
+      [
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-02-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "36.00"
+        },
+        {
+          "date": "2018-07-02",
+          "amount": "11.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "leefweek dropping",
+          "amount": "30.25"
+        },
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-02-03",
+          "amount": "250.00"
+        },
+        {
+          "date": "2018-05-03",
+          "amount": "200.00"
+        },
+        {
+          "date": "2017-11-21",
+          "amount": "260.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "145.00"
+        },
+        {
+          "date": "2017-07-04",
+          "amount": "157.00"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "134.20"
+        },
+        {
+          "date": "2016-06-27",
+          "amount": "50.00"
+        },
+        {
+          "date": "2015-12-25",
+          "amount": "40.00"
+        },
+        {
+          "date": "2015-07-10",
+          "amount": "45.50"
+        },
+        {
+          "date": "2014-09-17",
+          "amount": "50.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Geslepen Coendu"
+      }
+    ],
+    "price": [
+      {
+        "price": "0.4"
+      }
+    ],
+    "name": ["Duez Quinten"],
+    "bakken": [
+      [
+        {
+          "date": "2018-12-23",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "30.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "foute naam",
+          "amount": "15.20"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-03-01",
+          "amount": "29.00"
+        },
+        {
+          "date": "2018-05-01",
+          "amount": "47.60"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Corvus"
+      }
+    ],
+    "price": [
+      {
+        "price": "27"
+      }
+    ],
+    "name": ["Van Itterbeeck Rob"],
+    "bakken": [
+      [
+        {
+          "date": "2019-08-01",
+          "amount": "36.00"
+        },
+        {
+          "date": "2019-02-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-07-14",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "20.00"
+        },
+        {
+          "date": "2017-07-04",
+          "amount": "10.00"
+        },
+        {
+          "date": "2017-03-15",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-03-15",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-02-19",
+          "amount": "11.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "79.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "42.30"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "67.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Uitdagende Eekhoorn"
+      }
+    ],
+    "price": [
+      {
+        "price": "17.9"
+      }
+    ],
+    "name": ["Vertommen Sander"],
+    "bakken": [
+      [
+        {
+          "date": "2019-04-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-02-03",
+          "amount": "24.00"
+        },
+        {
+          "date": "2019-01-17",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "36.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-07-14",
+          "amount": "12.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "leefweek dropping",
+          "amount": "24.71"
+        },
+        {
+          "date": "bbq lichstoet",
+          "amount": "8.50"
+        },
+        {
+          "date": "openlucht",
+          "amount": "10.00"
+        },
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        },
+        {
+          "date": "bbq leefeek",
+          "amount": "20.00"
+        },
+        {
+          "date": "leefweek",
+          "amount": "23.00"
+        },
+        {
+          "date": "stokbrood + lasagne",
+          "amount": "1.79"
+        },
+        {
+          "date": "bbq",
+          "amount": "19.20"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "20.00"
+        },
+        {
+          "date": "",
+          "amount": "30.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-02-05",
+          "amount": "150.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "20.00"
+        },
+        {
+          "date": "2018-05-03",
+          "amount": "100.00"
+        },
+        {
+          "date": "2018-03-06",
+          "amount": "50.00"
+        },
+        {
+          "date": "2017-11-16",
+          "amount": "100.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "200.00"
+        },
+        {
+          "date": "2017-03-23",
+          "amount": "60.00"
+        },
+        {
+          "date": "2017-03-15",
+          "amount": "100.00"
+        },
+        {
+          "date": "2016-06-13",
+          "amount": "100.00"
+        },
+        {
+          "date": "2016-04-16",
+          "amount": "150.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Opgetogen Ekster"
+      }
+    ],
+    "price": [
+      {
+        "price": "56.9"
+      }
+    ],
+    "name": ["Vertommen Jannes"],
+    "bakken": [
+      [
+        {
+          "date": "2019-08-01",
+          "amount": "24.00"
+        },
+        {
+          "date": "2019-04-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "36.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "gouw dropping 18/04",
+          "amount": "10.50"
+        },
+        {
+          "date": "leefweek duoparty",
+          "amount": "26.80"
+        },
+        {
+          "date": "",
+          "amount": "8.50"
+        },
+        {
+          "date": "openlucht",
+          "amount": "10.00"
+        },
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        },
+        {
+          "date": "bbq leefweek",
+          "amount": "20.00"
+        },
+        {
+          "date": "leefweek",
+          "amount": "23.00"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "20.00"
+        },
+        {
+          "date": "",
+          "amount": "20.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-02-04",
+          "amount": "70.00"
+        },
+        {
+          "date": "2019-02-03",
+          "amount": "80.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "80.00"
+        },
+        {
+          "date": "2018-08-30",
+          "amount": "70.00"
+        },
+        {
+          "date": "2018-05-01",
+          "amount": "150.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "200.00"
+        },
+        {
+          "date": "2017-11-16",
+          "amount": "20.00"
+        },
+        {
+          "date": "2017-10-16",
+          "amount": "90.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "200.00"
+        },
+        {
+          "date": "2017-03-23",
+          "amount": "85.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Energieke Fitis"
+      }
+    ],
+    "price": [
+      {
+        "price": "26.4"
+      }
+    ],
+    "name": ["Blommaerts Nele"],
+    "bakken": [
+      [
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      []
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Vredige Fodi"
+      }
+    ],
+    "price": [
+      {
+        "price": "2.47"
+      }
+    ],
+    "name": ["De Corte Berre"],
+    "bakken": [
+      [
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "24.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "36.00"
+        },
+        {
+          "date": "2018-07-14",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "33.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "33.00"
+        },
+        {
+          "date": "2017-10-23",
+          "amount": "11.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "",
+          "amount": "15.67"
+        },
+        {
+          "date": "bbq lichstoet",
+          "amount": "8.50"
+        },
+        {
+          "date": "bbq leefweek",
+          "amount": "20.00"
+        },
+        {
+          "date": "leefweek",
+          "amount": "23.00"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "30.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-02-11",
+          "amount": "50.00"
+        },
+        {
+          "date": "2018-08-30",
+          "amount": "50.00"
+        },
+        {
+          "date": "2018-05-01",
+          "amount": "150.00"
+        },
+        {
+          "date": "2017-11-16",
+          "amount": "100.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "100.00"
+        },
+        {
+          "date": "2017-03-18",
+          "amount": "100.00"
+        },
+        {
+          "date": "2016-07-10",
+          "amount": "70.00"
+        },
+        {
+          "date": "2016-03-08",
+          "amount": "30.00"
+        },
+        {
+          "date": "2015-07-13",
+          "amount": "25.00"
+        },
+        {
+          "date": "2014-05-26",
+          "amount": "32.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Fantasierijke Fodi"
+      }
+    ],
+    "price": [
+      {
+        "price": "0.6"
+      }
+    ],
+    "name": ["Elien Devries"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      []
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Gekko"
+      }
+    ],
+    "price": [
+      {
+        "price": "8.4"
+      }
+    ],
+    "name": ["Lien Smets"],
+    "bakken": [
+      [
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-04-13",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-10-23",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-11-03",
+          "amount": "10.00"
+        },
+        {
+          "date": "2018-05-04",
+          "amount": "35.00"
+        },
+        {
+          "date": "2016-03-08",
+          "amount": "10.20"
+        },
+        {
+          "date": "2015-07-10",
+          "amount": "24.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Jolige Gibbon"
+      }
+    ],
+    "price": [
+      {
+        "price": "59.9"
+      }
+    ],
+    "name": ["Pijl Jonathan"],
+    "bakken": [
+      [
+        {
+          "date": "2018-12-23",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "20.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-01",
+          "amount": "120.00"
+        },
+        {
+          "date": "2017-11-20",
+          "amount": "150.00"
+        },
+        {
+          "date": "2017-03-18",
+          "amount": "60.00"
+        },
+        {
+          "date": "2015-07-13",
+          "amount": "40.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "aangename Kauw"
+      }
+    ],
+    "price": [
+      {
+        "price": "15.8"
+      }
+    ],
+    "name": ["Cools Jordi"],
+    "bakken": [
+      [
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "36.00"
+        },
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "30.00"
+        },
+        {
+          "date": "2017-02-19",
+          "amount": "22.00"
+        },
+        {
+          "date": "2016-09-24",
+          "amount": "10.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-09-09",
+          "amount": "20.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "leefweek duoparty",
+          "amount": "7.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-03-04",
+          "amount": "60.00"
+        },
+        {
+          "date": "2018-08-31",
+          "amount": "30.00"
+        },
+        {
+          "date": "2018-05-01",
+          "amount": "30.00"
+        },
+        {
+          "date": "2017-11-23",
+          "amount": "50.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "56.30"
+        },
+        {
+          "date": "2017-03-23",
+          "amount": "80.00"
+        },
+        {
+          "date": "2015-05-29",
+          "amount": "26.00"
+        },
+        {
+          "date": "2015-01-10",
+          "amount": "40.00"
+        },
+        {
+          "date": "2014-07-16",
+          "amount": "10.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Kauw (v)"
+      }
+    ],
+    "price": [
+      {
+        "price": "1.5"
+      }
+    ],
+    "name": [" kelly"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      []
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Koekoek"
+      }
+    ],
+    "price": [
+      {
+        "price": "46.6"
+      }
+    ],
+    "name": ["Tom Op de Beeck"],
+    "bakken": [
+      [
+        {
+          "date": "2019-08-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "24.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-02-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "36.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "22.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-02-03",
+          "amount": "100.00"
+        },
+        {
+          "date": "2018-05-03",
+          "amount": "100.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Gemeenzame Mus"
+      }
+    ],
+    "price": [
+      {
+        "price": "180.55"
+      }
+    ],
+    "name": ["Blomaerts Seppe"],
+    "bakken": [
+      [
+        {
+          "date": "2019-04-03",
+          "amount": "96.00"
+        },
+        {
+          "date": "2019-02-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "96.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "60.00"
+        },
+        {
+          "date": "2018-07-14",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-07-02",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-07-02",
+          "amount": "11.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "gouw dropping 18/03",
+          "amount": "10.50"
+        },
+        {
+          "date": "bbq lichstoet",
+          "amount": "8.50"
+        },
+        {
+          "date": "openlucht",
+          "amount": "10.00"
+        },
+        {
+          "date": "bbq leefweek",
+          "amount": "20.00"
+        },
+        {
+          "date": "leefweek",
+          "amount": "23.00"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "20.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-02-18",
+          "amount": "200.00"
+        },
+        {
+          "date": "2019-02-13",
+          "amount": "20.00"
+        },
+        {
+          "date": "2018-08-31",
+          "amount": "120.00"
+        },
+        {
+          "date": "2018-05-03",
+          "amount": "150.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "54.85"
+        },
+        {
+          "date": "2017-10-23",
+          "amount": "49.00"
+        },
+        {
+          "date": "2017-10-23",
+          "amount": "0.50"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "100.00"
+        },
+        {
+          "date": "2017-07-04",
+          "amount": "80.00"
+        },
+        {
+          "date": "2017-03-18",
+          "amount": "50.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Bedachtzame Oerang-Oetan"
+      }
+    ],
+    "price": [
+      {
+        "price": "18.3"
+      }
+    ],
+    "name": ["Decorte Kobe"],
+    "bakken": [
+      [
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "36.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "22.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "4.00"
+        },
+        {
+          "date": "2016-09-24",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "orval",
+          "amount": "5.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-03-01",
+          "amount": "50.00"
+        },
+        {
+          "date": "2018-05-07",
+          "amount": "100.00"
+        },
+        {
+          "date": "2017-11-21",
+          "amount": "100.00"
+        },
+        {
+          "date": "2016-07-10",
+          "amount": "40.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Komische panda"
+      }
+    ],
+    "price": [
+      {
+        "price": "93.4"
+      }
+    ],
+    "name": ["Mrabet Jordy"],
+    "bakken": [
+      [
+        {
+          "date": "2019-02-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-07-14",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "33.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "22.00"
+        },
+        {
+          "date": "2017-10-16",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-31",
+          "amount": "40.00"
+        },
+        {
+          "date": "2018-05-07",
+          "amount": "125.00"
+        },
+        {
+          "date": "2017-10-02",
+          "amount": "71.00"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "90.20"
+        },
+        {
+          "date": "2015-07-10",
+          "amount": "44.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Vinnige Saiga"
+      }
+    ],
+    "price": [
+      {
+        "price": "43.5"
+      }
+    ],
+    "name": ["Punjwani Simon"],
+    "bakken": [
+      [
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "20.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-09-09",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "orval",
+          "amount": "5.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-03",
+          "amount": "90.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "70.00"
+        },
+        {
+          "date": "2017-03-15",
+          "amount": "50.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Geestdriftige Scholekster"
+      }
+    ],
+    "price": [
+      {
+        "price": "80"
+      }
+    ],
+    "name": ["Vandekerkhove Brecht"],
+    "bakken": [
+      [
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "36.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-10-23",
+          "amount": "11.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-11-03",
+          "amount": "30.00"
+        },
+        {
+          "date": "2018-08-30",
+          "amount": "50.00"
+        },
+        {
+          "date": "2018-05-01",
+          "amount": "90.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "32.00"
+        },
+        {
+          "date": "2016-08-03",
+          "amount": "46.50"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Praatgrage Specht"
+      }
+    ],
+    "price": [
+      {
+        "price": "-6.14"
+      }
+    ],
+    "name": ["Bjarne Pijl"],
+    "bakken": [
+      [
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-02-03",
+          "amount": "27.85"
+        },
+        {
+          "date": "2019-02-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "108.00"
+        },
+        {
+          "date": "2018-07-02",
+          "amount": "11.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "leefweek",
+          "amount": "23.00"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "20.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-02-18",
+          "amount": "150.00"
+        },
+        {
+          "date": "2019-02-03",
+          "amount": "1.39"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "100.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "150.00"
+        },
+        {
+          "date": "2017-11-22",
+          "amount": "10.00"
+        },
+        {
+          "date": "2017-11-17",
+          "amount": "6.00"
+        },
+        {
+          "date": "2017-10-16",
+          "amount": "75.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "100.00"
+        },
+        {
+          "date": "2017-03-18",
+          "amount": "2.00"
+        },
+        {
+          "date": "2017-03-15",
+          "amount": "20.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Volgzame Stekelstaarteekhoorn"
+      }
+    ],
+    "price": [
+      {
+        "price": "38.17"
+      }
+    ],
+    "name": ["Kobe Op De Beeck "],
+    "bakken": [
+      [
+        {
+          "date": "2019-08-01",
+          "amount": "48.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-01-17",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "22.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "33.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "11.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "gouw dropping 18/03",
+          "amount": "10.50"
+        },
+        {
+          "date": "leefweek duoparty",
+          "amount": "18.67"
+        },
+        {
+          "date": "leefweek bbq",
+          "amount": "20.00"
+        },
+        {
+          "date": "leefweek",
+          "amount": "23.00"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "20.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-02-03",
+          "amount": "140.00"
+        },
+        {
+          "date": "2018-05-01",
+          "amount": "200.00"
+        },
+        {
+          "date": "2017-11-17",
+          "amount": "200.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "150.00"
+        },
+        {
+          "date": "2017-07-04",
+          "amount": "40.00"
+        },
+        {
+          "date": "2017-03-23",
+          "amount": "73.00"
+        },
+        {
+          "date": "2016-07-15",
+          "amount": "80.00"
+        },
+        {
+          "date": "2016-06-13",
+          "amount": "121.10"
+        },
+        {
+          "date": "2015-01-31",
+          "amount": "50.00"
+        },
+        {
+          "date": "2012-09-28",
+          "amount": "0.40"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Ijverige Toekan"
+      }
+    ],
+    "price": [
+      {
+        "price": "-85.86"
+      }
+    ],
+    "name": ["Mathias Mrabet"],
+    "bakken": [
+      [
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "24.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-03-18",
+          "amount": "48.00"
+        },
+        {
+          "date": "2019-02-03",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "72.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "48.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "24.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "",
+          "amount": "125.00"
+        },
+        {
+          "date": "leefweek duoparty",
+          "amount": "8.04"
+        },
+        {
+          "date": "leefweek",
+          "amount": "23.00"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "20.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-02-03",
+          "amount": "250.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "250.00"
+        },
+        {
+          "date": "2018-05-07",
+          "amount": "100.00"
+        },
+        {
+          "date": "2018-05-04",
+          "amount": "125.00"
+        },
+        {
+          "date": "2018-03-06",
+          "amount": "100.00"
+        },
+        {
+          "date": "2017-11-17",
+          "amount": "100.00"
+        },
+        {
+          "date": "2017-11-16",
+          "amount": "50.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "30.00"
+        },
+        {
+          "date": "2017-07-04",
+          "amount": "70.00"
+        },
+        {
+          "date": "2017-03-23",
+          "amount": "50.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "gemoedelijke veldmuis"
+      }
+    ],
+    "price": [
+      {
+        "price": "0.6"
+      }
+    ],
+    "name": ["van Eester Ellen"],
+    "bakken": [
+      [
+        {
+          "date": "2018-12-23",
+          "amount": "36.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2014-12-13",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-03-04",
+          "amount": "36.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-08-30",
+          "amount": "10.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Gedreven Adelaar"
+      }
+    ],
+    "price": [
+      {
+        "price": "28.6"
+      }
+    ],
+    "name": ["Janssens Thomas"],
+    "bakken": [
+      [
+        {
+          "date": "2014-05-28",
+          "amount": "10.00"
+        },
+        {
+          "date": "2013-01-26",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-02-15",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "10.00"
+        },
+        {
+          "date": "2009-12-06",
+          "amount": "10.00"
+        },
+        {
+          "date": "2009-11-23",
+          "amount": "10.00"
+        },
+        {
+          "date": "2009-08-09",
+          "amount": "10.00"
+        },
+        {
+          "date": "2009-08-09",
+          "amount": "10.00"
+        },
+        {
+          "date": "2009-05-02",
+          "amount": "10.00"
+        },
+        {
+          "date": "2009-04-19",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "30.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        },
+        {
+          "date": "10 % DEAL 1 JULI 2009",
+          "amount": "3.00"
+        },
+        {
+          "date": "Scoutsjaar 2007-2008",
+          "amount": "40.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2011-05-06",
+          "amount": "21.90"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "70.00"
+        },
+        {
+          "date": "2009-08-21",
+          "amount": "95.00"
+        },
+        {
+          "date": "2009-05-25",
+          "amount": "58.00"
+        },
+        {
+          "date": "2009-03-15",
+          "amount": "50.00"
+        },
+        {
+          "date": "2009-01-10",
+          "amount": "60.00"
+        },
+        {
+          "date": "2008-12-10",
+          "amount": "100.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "SK Alpaca"
+      }
+    ],
+    "price": [
+      {
+        "price": "0"
+      }
+    ],
+    "name": ["Femke Roels"],
+    "bakken": [
+      [
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-01",
+          "amount": "11.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Inventieve Alpaca"
+      }
+    ],
+    "price": [
+      {
+        "price": "-1.4"
+      }
+    ],
+    "name": ["Kinne Dag"],
+    "bakken": [
+      [
+        {
+          "date": "2018-02-20",
+          "amount": "11.00"
+        },
+        {
+          "date": "2016-09-24",
+          "amount": "10.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-09-09",
+          "amount": "10.00"
+        },
+        {
+          "date": "2012-06-22",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-05-05",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-03-27",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "30.00"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "10.00"
+        },
+        {
+          "date": "2010-05-13",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "30.00"
+        },
+        {
+          "date": "",
+          "amount": "32.00"
+        },
+        {
+          "date": "Kamp Felenne 20112 bakken",
+          "amount": "24.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "50.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        },
+        {
+          "date": "10 % DEAL 1 JULI 2009",
+          "amount": "4.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2013-10-09",
+          "amount": "80.00"
+        },
+        {
+          "date": "2013-02-24",
+          "amount": "60.00"
+        },
+        {
+          "date": "2011-07-15",
+          "amount": "200.00"
+        },
+        {
+          "date": "2010-05-16",
+          "amount": "100.00"
+        },
+        {
+          "date": "2009-12-21",
+          "amount": "125.00"
+        },
+        {
+          "date": "2009-06-26",
+          "amount": "2.00"
+        },
+        {
+          "date": "2009-06-01",
+          "amount": "50.00"
+        },
+        {
+          "date": "2009-05-08",
+          "amount": "150.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Kordate Ara"
+      }
+    ],
+    "price": [
+      {
+        "price": "-3.3"
+      }
+    ],
+    "name": ["Verbeeck Thijs"],
+    "bakken": [
+      [
+        {
+          "date": "2017-08-07",
+          "amount": "10.00"
+        },
+        {
+          "date": "2016-01-03",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-11-27",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-08-08",
+          "amount": "30.00"
+        },
+        {
+          "date": "2015-06-06",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-05-01",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-04-05",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-03-24",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-02-10",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-12-13",
+          "amount": "20.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "bbq leefweek",
+          "amount": "20.00"
+        },
+        {
+          "date": "bbq",
+          "amount": "19.20"
+        },
+        {
+          "date": "",
+          "amount": "56.00"
+        },
+        {
+          "date": "speciale bieren duo",
+          "amount": "8.03"
+        },
+        {
+          "date": "leidingsweekend",
+          "amount": "4.00"
+        },
+        {
+          "date": "Kamp Felenne 20114 bakken",
+          "amount": "48.00"
+        },
+        {
+          "date": "Kosten die in de loop der jaren per ongeluk aan de verkeerde Ara zijn aangerekend",
+          "amount": "28.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "40.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 NAWACHT",
+          "amount": "4.00"
+        },
+        {
+          "date": "Scoutsjaar 2007-2008",
+          "amount": "5.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2016-05-23",
+          "amount": "75.00"
+        },
+        {
+          "date": "2015-12-25",
+          "amount": "63.00"
+        },
+        {
+          "date": "2015-06-09",
+          "amount": "50.00"
+        },
+        {
+          "date": "2015-03-06",
+          "amount": "70.00"
+        },
+        {
+          "date": "2014-12-10",
+          "amount": "20.00"
+        },
+        {
+          "date": "2014-09-23",
+          "amount": "8.80"
+        },
+        {
+          "date": "2014-07-16",
+          "amount": "70.00"
+        },
+        {
+          "date": "2014-03-30",
+          "amount": "80.00"
+        },
+        {
+          "date": "2014-01-02",
+          "amount": "108.52"
+        },
+        {
+          "date": "2013-09-30",
+          "amount": "75.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Vurige Arakanga"
+      }
+    ],
+    "price": [
+      {
+        "price": "0"
+      }
+    ],
+    "name": ["De Keyser Hanne"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2016-07-10",
+          "amount": "21.60"
+        },
+        {
+          "date": "2014-01-02",
+          "amount": "3.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Pientere Arasari"
+      }
+    ],
+    "price": [
+      {
+        "price": "16.9"
+      }
+    ],
+    "name": ["Suykens Michiel"],
+    "bakken": [
+      [
+        {
+          "date": "2018-12-23",
+          "amount": "12.00"
+        },
+        {
+          "date": "2017-10-23",
+          "amount": "33.00"
+        },
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "30.00"
+        },
+        {
+          "date": "2017-07-04",
+          "amount": "20.00"
+        },
+        {
+          "date": "2017-02-19",
+          "amount": "11.00"
+        },
+        {
+          "date": "2016-09-24",
+          "amount": "30.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-11-27",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-09-09",
+          "amount": "20.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "openlucht",
+          "amount": "10.00"
+        },
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        },
+        {
+          "date": "bbq",
+          "amount": "19.20"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "28.00"
+        },
+        {
+          "date": "speciale bieren duo",
+          "amount": "1.66"
+        },
+        {
+          "date": "leindingsweekend",
+          "amount": "4.00"
+        },
+        {
+          "date": "Kamp Felenne 20111 bak",
+          "amount": "12.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "30.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-11-03",
+          "amount": "30.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "100.00"
+        },
+        {
+          "date": "2016-10-29",
+          "amount": "100.00"
+        },
+        {
+          "date": "2016-08-03",
+          "amount": "25.00"
+        },
+        {
+          "date": "2016-05-26",
+          "amount": "70.30"
+        },
+        {
+          "date": "2015-07-10",
+          "amount": "60.00"
+        },
+        {
+          "date": "2015-05-29",
+          "amount": "50.00"
+        },
+        {
+          "date": "2015-02-14",
+          "amount": "60.00"
+        },
+        {
+          "date": "2014-11-13",
+          "amount": "75.00"
+        },
+        {
+          "date": "2014-09-22",
+          "amount": "50.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "toegewijde Arend"
+      }
+    ],
+    "price": [
+      {
+        "price": "-22.66"
+      }
+    ],
+    "name": ["De Vos Jelle"],
+    "bakken": [
+      [
+        {
+          "date": "2018-12-23",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "36.00"
+        },
+        {
+          "date": "2018-07-14",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "22.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-10-23",
+          "amount": "22.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "10.00"
+        },
+        {
+          "date": "2017-07-04",
+          "amount": "50.00"
+        },
+        {
+          "date": "2017-04-13",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "gouw dropping 18/03",
+          "amount": "5.00"
+        },
+        {
+          "date": "leefweek duoparty",
+          "amount": "10.44"
+        },
+        {
+          "date": "",
+          "amount": "18.00"
+        },
+        {
+          "date": "Kamp Felenne 20114 bakken (één reeds betaald)",
+          "amount": "36.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-02-04",
+          "amount": "70.00"
+        },
+        {
+          "date": "2017-11-23",
+          "amount": "200.00"
+        },
+        {
+          "date": "2017-03-18",
+          "amount": "150.00"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "100.00"
+        },
+        {
+          "date": "2016-07-10",
+          "amount": "100.00"
+        },
+        {
+          "date": "2016-03-08",
+          "amount": "100.00"
+        },
+        {
+          "date": "2015-08-17",
+          "amount": "167.00"
+        },
+        {
+          "date": "2014-11-17",
+          "amount": "100.00"
+        },
+        {
+          "date": "2014-10-11",
+          "amount": "100.00"
+        },
+        {
+          "date": "2014-06-24",
+          "amount": "100.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Gemotiveerde Barry"
+      }
+    ],
+    "price": [
+      {
+        "price": "-0.4"
+      }
+    ],
+    "name": ["Sluyts Wannes"],
+    "bakken": [
+      [
+        {
+          "date": "2017-08-07",
+          "amount": "10.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-09-09",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-08-08",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-10-13",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-09-16",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-09-11",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-08-04",
+          "amount": "20.00"
+        },
+        {
+          "date": "2014-02-15",
+          "amount": "12.00"
+        },
+        {
+          "date": "2014-02-15",
+          "amount": "12.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "40.00"
+        },
+        {
+          "date": "",
+          "amount": "25.00"
+        },
+        {
+          "date": "leindingsweekend",
+          "amount": "4.00"
+        },
+        {
+          "date": "Kamp Felenne 20112 bakken",
+          "amount": "24.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-04",
+          "amount": "14.00"
+        },
+        {
+          "date": "2017-03-18",
+          "amount": "40.00"
+        },
+        {
+          "date": "2015-07-08",
+          "amount": "45.10"
+        },
+        {
+          "date": "2014-07-15",
+          "amount": "145.00"
+        },
+        {
+          "date": "2013-07-11",
+          "amount": "39.00"
+        },
+        {
+          "date": "2013-05-10",
+          "amount": "60.00"
+        },
+        {
+          "date": "2013-01-11",
+          "amount": "42.20"
+        },
+        {
+          "date": "2012-07-30",
+          "amount": "100.00"
+        },
+        {
+          "date": "2012-05-24",
+          "amount": "20.00"
+        },
+        {
+          "date": "2012-04-03",
+          "amount": "20.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Geestige Carancho"
+      }
+    ],
+    "price": [
+      {
+        "price": "2.8"
+      }
+    ],
+    "name": ["Verstraeten Gert"],
+    "bakken": [
+      [
+        {
+          "date": "2017-03-15",
+          "amount": "11.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-11-27",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-09-09",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-03-03",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-11-15",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-11-10",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-10-23",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-09-28",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-08-04",
+          "amount": "20.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "bbq lichtstoet",
+          "amount": "8.50"
+        },
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        },
+        {
+          "date": "stokbrood + lasagne",
+          "amount": "1.80"
+        },
+        {
+          "date": "tandpasta en tandenborstels",
+          "amount": "9.58"
+        },
+        {
+          "date": "bbq",
+          "amount": "19.20"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "50.00"
+        },
+        {
+          "date": "leindingsweekend",
+          "amount": "4.00"
+        },
+        {
+          "date": "Kamp Felenne 20112 bakken",
+          "amount": "24.00"
+        },
+        {
+          "date": "Scoutsjaar 2007-2008",
+          "amount": "20.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2017-07-14",
+          "amount": "50.00"
+        },
+        {
+          "date": "2017-03-23",
+          "amount": "120.00"
+        },
+        {
+          "date": "2016-08-03",
+          "amount": "60.00"
+        },
+        {
+          "date": "2016-03-08",
+          "amount": "130.00"
+        },
+        {
+          "date": "2015-07-07",
+          "amount": "60.00"
+        },
+        {
+          "date": "2015-06-08",
+          "amount": "100.00"
+        },
+        {
+          "date": "2015-02-10",
+          "amount": "25.00"
+        },
+        {
+          "date": "2014-11-27",
+          "amount": "80.00"
+        },
+        {
+          "date": "2014-09-23",
+          "amount": "25.00"
+        },
+        {
+          "date": "2014-09-11",
+          "amount": "20.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Cheetah"
+      }
+    ],
+    "price": [
+      {
+        "price": "0"
+      }
+    ],
+    "name": ["Dageraad Somers"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2015-07-10",
+          "amount": "14.90"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "kas Gidsen"
+      }
+    ],
+    "price": [
+      {
+        "price": "-34.5"
+      }
+    ],
+    "name": ["Gidsen kas"],
+    "bakken": [
+      [
+        {
+          "date": "2015-11-27",
+          "amount": "30.00"
+        },
+        {
+          "date": "2013-11-28",
+          "amount": "12.00"
+        },
+        {
+          "date": "2013-08-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2012-10-20",
+          "amount": "10.00"
+        },
+        {
+          "date": "2012-10-20",
+          "amount": "10.00"
+        },
+        {
+          "date": "2012-09-24",
+          "amount": "10.00"
+        },
+        {
+          "date": "2012-09-12",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2016-02-03",
+          "amount": "64.50"
+        },
+        {
+          "date": "2014-09-29",
+          "amount": "24.00"
+        },
+        {
+          "date": "2013-01-02",
+          "amount": "40.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "vreugdevolle Gorilla"
+      }
+    ],
+    "price": [
+      {
+        "price": "113.3"
+      }
+    ],
+    "name": ["Gommers Koen"],
+    "bakken": [
+      [
+        {
+          "date": "2019-08-01",
+          "amount": "24.00"
+        },
+        {
+          "date": "2019-02-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-07-14",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "44.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "33.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "",
+          "amount": "8.50"
+        },
+        {
+          "date": "openlucht",
+          "amount": "10.00"
+        },
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        },
+        {
+          "date": "bbq leefweek",
+          "amount": "20.00"
+        },
+        {
+          "date": "leefweek",
+          "amount": "23.00"
+        },
+        {
+          "date": "worstenbroodje",
+          "amount": "1.75"
+        },
+        {
+          "date": "bbq",
+          "amount": "19.20"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "10.00"
+        },
+        {
+          "date": "Kamp Felenne 20112 bakken (één reeds gegeven)",
+          "amount": "12.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-01",
+          "amount": "150.00"
+        },
+        {
+          "date": "2017-11-16",
+          "amount": "120.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "260.00"
+        },
+        {
+          "date": "2016-07-15",
+          "amount": "196.90"
+        },
+        {
+          "date": "2016-02-03",
+          "amount": "180.00"
+        },
+        {
+          "date": "2015-07-10",
+          "amount": "77.05"
+        },
+        {
+          "date": "2015-06-02",
+          "amount": "60.00"
+        },
+        {
+          "date": "2015-04-17",
+          "amount": "50.00"
+        },
+        {
+          "date": "2014-11-03",
+          "amount": "60.00"
+        },
+        {
+          "date": "2014-10-27",
+          "amount": "8.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Parate hazewind"
+      }
+    ],
+    "price": [
+      {
+        "price": "-1.4"
+      }
+    ],
+    "name": ["Vertommen Marijke"],
+    "bakken": [
+      [
+        {
+          "date": "2018-02-20",
+          "amount": "22.00"
+        },
+        {
+          "date": "2016-05-25",
+          "amount": "12.00"
+        },
+        {
+          "date": "2016-01-03",
+          "amount": "10.00"
+        },
+        {
+          "date": "2013-01-26",
+          "amount": "12.00"
+        },
+        {
+          "date": "2012-06-22",
+          "amount": "12.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "",
+          "amount": "8.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-07",
+          "amount": "15.00"
+        },
+        {
+          "date": "2016-07-10",
+          "amount": "20.00"
+        },
+        {
+          "date": "2014-11-13",
+          "amount": "20.00"
+        },
+        {
+          "date": "2013-09-20",
+          "amount": "50.00"
+        },
+        {
+          "date": "2012-07-09",
+          "amount": "13.80"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Parate Jako"
+      }
+    ],
+    "price": [
+      {
+        "price": "-0.00999999999999"
+      }
+    ],
+    "name": ["Hendrickx Bert"],
+    "bakken": [
+      [
+        {
+          "date": "2017-10-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "30.00"
+        },
+        {
+          "date": "2016-07-01",
+          "amount": "10.00"
+        },
+        {
+          "date": "2016-04-14",
+          "amount": "12.00"
+        },
+        {
+          "date": "2016-02-01",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-08-08",
+          "amount": "30.00"
+        },
+        {
+          "date": "2015-06-06",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-04-17",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-03-03",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-10-05",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "leefweek duoparty",
+          "amount": "7.79"
+        },
+        {
+          "date": "openlucht",
+          "amount": "10.00"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "27.00"
+        },
+        {
+          "date": "leindingsweekend",
+          "amount": "4.00"
+        },
+        {
+          "date": "Kamp Felenne 20111 bak",
+          "amount": "12.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "20.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        },
+        {
+          "date": "Scoutsjaar 2007-2008",
+          "amount": "10.50"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-07",
+          "amount": "2.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "50.00"
+        },
+        {
+          "date": "2017-03-23",
+          "amount": "20.00"
+        },
+        {
+          "date": "2016-10-29",
+          "amount": "50.00"
+        },
+        {
+          "date": "2016-08-03",
+          "amount": "20.00"
+        },
+        {
+          "date": "2016-07-15",
+          "amount": "10.00"
+        },
+        {
+          "date": "2016-05-23",
+          "amount": "20.00"
+        },
+        {
+          "date": "2016-04-16",
+          "amount": "6.60"
+        },
+        {
+          "date": "2016-04-16",
+          "amount": "51.10"
+        },
+        {
+          "date": "2015-07-10",
+          "amount": "75.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Openhartige Kaketoe"
+      }
+    ],
+    "price": [
+      {
+        "price": "-15.8"
+      }
+    ],
+    "name": ["Van Den Bosch Sander"],
+    "bakken": [
+      [
+        {
+          "date": "2014-08-04",
+          "amount": "40.00"
+        },
+        {
+          "date": "2014-02-15",
+          "amount": "12.00"
+        },
+        {
+          "date": "2013-01-26",
+          "amount": "12.00"
+        },
+        {
+          "date": "2013-01-26",
+          "amount": "12.00"
+        },
+        {
+          "date": "2012-10-20",
+          "amount": "10.00"
+        },
+        {
+          "date": "2012-06-22",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-12-11",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-09-02",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-12-19",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "20.00"
+        },
+        {
+          "date": "leindingsweekend",
+          "amount": "4.00"
+        },
+        {
+          "date": "Kamp Felenne 20112 bakken",
+          "amount": "24.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "20.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        },
+        {
+          "date": "Scoutsjaar 2007-2008",
+          "amount": "-4.50"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2014-12-22",
+          "amount": "50.00"
+        },
+        {
+          "date": "2014-04-08",
+          "amount": "50.00"
+        },
+        {
+          "date": "2013-05-28",
+          "amount": "70.00"
+        },
+        {
+          "date": "2012-07-30",
+          "amount": "50.00"
+        },
+        {
+          "date": "2012-05-29",
+          "amount": "30.00"
+        },
+        {
+          "date": "2012-01-12",
+          "amount": "20.00"
+        },
+        {
+          "date": "2011-11-20",
+          "amount": "25.00"
+        },
+        {
+          "date": "2011-07-14",
+          "amount": "80.00"
+        },
+        {
+          "date": "2010-04-02",
+          "amount": "20.00"
+        },
+        {
+          "date": "2010-01-08",
+          "amount": "20.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Kameel"
+      }
+    ],
+    "price": [
+      {
+        "price": "0"
+      }
+    ],
+    "name": ["De Keyser Sarah"],
+    "bakken": [
+      [
+        {
+          "date": "2015-04-05",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "",
+          "amount": "10.00"
+        },
+        {
+          "date": "speciale bieren duo",
+          "amount": "2.99"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2017-03-15",
+          "amount": "24.20"
+        },
+        {
+          "date": "2012-07-09",
+          "amount": "4.19"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "kanarie"
+      }
+    ],
+    "price": [
+      {
+        "price": "0"
+      }
+    ],
+    "name": ["krey khey"],
+    "bakken": [
+      [
+        {
+          "date": "2016-09-24",
+          "amount": "10.00"
+        },
+        {
+          "date": "2016-07-01",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2016-10-29",
+          "amount": "20.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Enthousiaste Kangoeroe"
+      }
+    ],
+    "price": [
+      {
+        "price": "-0.3"
+      }
+    ],
+    "name": ["Mollemans Bram"],
+    "bakken": [
+      [
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-09-09",
+          "amount": "20.00"
+        },
+        {
+          "date": "2014-09-11",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-08-04",
+          "amount": "20.00"
+        },
+        {
+          "date": "2013-11-28",
+          "amount": "12.00"
+        },
+        {
+          "date": "2013-06-23",
+          "amount": "12.00"
+        },
+        {
+          "date": "2013-04-10",
+          "amount": "12.00"
+        },
+        {
+          "date": "2013-01-26",
+          "amount": "12.00"
+        },
+        {
+          "date": "2012-12-02",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "10.00"
+        },
+        {
+          "date": "speciale bieren duo",
+          "amount": "2.53"
+        },
+        {
+          "date": "Kamp Felenne 20113 bakken",
+          "amount": "36.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "20.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        },
+        {
+          "date": "10 % DEAL 1 JULI 2009",
+          "amount": "7.00"
+        },
+        {
+          "date": "Scoutsjaar 2007-2008",
+          "amount": "20.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-07",
+          "amount": "45.00"
+        },
+        {
+          "date": "2015-02-17",
+          "amount": "41.00"
+        },
+        {
+          "date": "2014-04-15",
+          "amount": "118.60"
+        },
+        {
+          "date": "2013-01-29",
+          "amount": "33.99"
+        },
+        {
+          "date": "2012-07-05",
+          "amount": "60.00"
+        },
+        {
+          "date": "2011-12-19",
+          "amount": "100.00"
+        },
+        {
+          "date": "2011-07-14",
+          "amount": "50.00"
+        },
+        {
+          "date": "2011-07-12",
+          "amount": "46.44"
+        },
+        {
+          "date": "2011-05-05",
+          "amount": "200.00"
+        },
+        {
+          "date": "2010-11-03",
+          "amount": "300.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Opgewekte Kapucijnaap"
+      }
+    ],
+    "price": [
+      {
+        "price": "-22.5"
+      }
+    ],
+    "name": ["Cloet Evert"],
+    "bakken": [
+      [
+        {
+          "date": "2011-05-16",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-04-19",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "0.00"
+        },
+        {
+          "date": "leindingsweekend",
+          "amount": "4.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "20.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 NAWACHT",
+          "amount": "4.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2011-05-31",
+          "amount": "70.00"
+        },
+        {
+          "date": "2009-09-02",
+          "amount": "29.50"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Kariboe"
+      }
+    ],
+    "price": [
+      {
+        "price": "0"
+      }
+    ],
+    "name": ["Nathalie Moeyersons"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2017-03-15",
+          "amount": "3.60"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Rustige Katfret"
+      }
+    ],
+    "price": [
+      {
+        "price": "0"
+      }
+    ],
+    "name": ["Somers Casper"],
+    "bakken": [
+      [
+        {
+          "date": "2013-10-09",
+          "amount": "12.00"
+        },
+        {
+          "date": "2012-05-02",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-06-20",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-05-05",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-04-19",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-10-21",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-10-21",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-10-16",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "10.00"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "30.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "0.00"
+        },
+        {
+          "date": "",
+          "amount": "10.00"
+        },
+        {
+          "date": "Kamp Felenne 20114 bakken",
+          "amount": "48.00"
+        },
+        {
+          "date": "lening",
+          "amount": "20.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "10.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        },
+        {
+          "date": "10 % DEAL 1 JUNI 2009",
+          "amount": "7.00"
+        },
+        {
+          "date": "Scoutsjaar 2007-2008",
+          "amount": "12.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2017-03-15",
+          "amount": "31.60"
+        },
+        {
+          "date": "2014-05-15",
+          "amount": "50.00"
+        },
+        {
+          "date": "2013-05-10",
+          "amount": "20.00"
+        },
+        {
+          "date": "2011-11-07",
+          "amount": "50.00"
+        },
+        {
+          "date": "2011-07-15",
+          "amount": "0.30"
+        },
+        {
+          "date": "2011-07-15",
+          "amount": "105.00"
+        },
+        {
+          "date": "2011-06-08",
+          "amount": "100.00"
+        },
+        {
+          "date": "2011-01-07",
+          "amount": "150.00"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "100.00"
+        },
+        {
+          "date": "2009-10-11",
+          "amount": "39.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "kraanvogel"
+      }
+    ],
+    "price": [
+      {
+        "price": "0"
+      }
+    ],
+    "name": [null],
+    "bakken": [
+      [
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-04",
+          "amount": "11.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Oprechte Loewak"
+      }
+    ],
+    "price": [
+      {
+        "price": "6"
+      }
+    ],
+    "name": [" Nathalie Verhaeren"],
+    "bakken": [
+      [
+        {
+          "date": "2015-06-06",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2015-07-10",
+          "amount": "10.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "geslepen Lori"
+      }
+    ],
+    "price": [
+      {
+        "price": "0"
+      }
+    ],
+    "name": ["Romanus Ward"],
+    "bakken": [
+      [
+        {
+          "date": "2014-08-04",
+          "amount": "10.00"
+        },
+        {
+          "date": "2011-05-16",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-05-16",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-07",
+          "amount": "20.60"
+        },
+        {
+          "date": "2014-07-16",
+          "amount": "9.70"
+        },
+        {
+          "date": "2013-06-27",
+          "amount": "50.00"
+        },
+        {
+          "date": "2012-07-02",
+          "amount": "30.00"
+        },
+        {
+          "date": "2011-11-19",
+          "amount": "20.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Flamboyante Maraboe"
+      }
+    ],
+    "price": [
+      {
+        "price": "0.3"
+      }
+    ],
+    "name": ["Verbeeck Mattias"],
+    "bakken": [
+      [
+        {
+          "date": "2017-08-07",
+          "amount": "10.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-09-09",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-08-08",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-09-11",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-08-04",
+          "amount": "30.00"
+        },
+        {
+          "date": "2013-05-20",
+          "amount": "12.00"
+        },
+        {
+          "date": "2013-01-26",
+          "amount": "12.00"
+        },
+        {
+          "date": "2013-01-26",
+          "amount": "12.00"
+        },
+        {
+          "date": "2012-09-24",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "bbq lichstoet",
+          "amount": "8.50"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "20.00"
+        },
+        {
+          "date": "",
+          "amount": "42.00"
+        },
+        {
+          "date": "speciale bieren duo",
+          "amount": "2.53"
+        },
+        {
+          "date": "leindingsweekend",
+          "amount": "4.00"
+        },
+        {
+          "date": "Kamp Felenne 20111 bak",
+          "amount": "12.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "20.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        },
+        {
+          "date": "Scoutsjaar 2007-2008",
+          "amount": "-18.50"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-07",
+          "amount": "12.30"
+        },
+        {
+          "date": "2017-03-15",
+          "amount": "40.00"
+        },
+        {
+          "date": "2014-09-25",
+          "amount": "55.00"
+        },
+        {
+          "date": "2014-01-02",
+          "amount": "25.00"
+        },
+        {
+          "date": "2013-07-15",
+          "amount": "0.33"
+        },
+        {
+          "date": "2013-07-11",
+          "amount": "60.00"
+        },
+        {
+          "date": "2013-05-15",
+          "amount": "45.00"
+        },
+        {
+          "date": "2013-01-15",
+          "amount": "30.00"
+        },
+        {
+          "date": "2012-07-04",
+          "amount": "110.00"
+        },
+        {
+          "date": "2011-07-11",
+          "amount": "60.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Kwieke Maraboe"
+      }
+    ],
+    "price": [
+      {
+        "price": "-43.8"
+      }
+    ],
+    "name": ["Van Baden Steven"],
+    "bakken": [
+      [
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "20.00"
+        },
+        {
+          "date": "2017-07-04",
+          "amount": "10.00"
+        },
+        {
+          "date": "2017-07-04",
+          "amount": "20.00"
+        },
+        {
+          "date": "2017-03-15",
+          "amount": "33.00"
+        },
+        {
+          "date": "2017-02-19",
+          "amount": "11.00"
+        },
+        {
+          "date": "2016-09-24",
+          "amount": "20.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "30.00"
+        },
+        {
+          "date": "2016-07-01",
+          "amount": "30.00"
+        },
+        {
+          "date": "2016-05-25",
+          "amount": "48.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "openlucht",
+          "amount": "10.00"
+        },
+        {
+          "date": "bbq leefweek",
+          "amount": "20.00"
+        },
+        {
+          "date": "leefweek",
+          "amount": "23.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2017-07-14",
+          "amount": "100.00"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "100.00"
+        },
+        {
+          "date": "2016-09-26",
+          "amount": "100.00"
+        },
+        {
+          "date": "2016-05-23",
+          "amount": "100.00"
+        },
+        {
+          "date": "2016-04-16",
+          "amount": "100.00"
+        },
+        {
+          "date": "2015-12-25",
+          "amount": "100.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Verstrooide Markhoor"
+      }
+    ],
+    "price": [
+      {
+        "price": "18"
+      }
+    ],
+    "name": ["Van Eekert Bram"],
+    "bakken": [
+      [
+        {
+          "date": "2018-11-03",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "60.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "72.00"
+        },
+        {
+          "date": "2018-07-14",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-07-02",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-07-02",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-07-02",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "44.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "33.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "gouw dropping 18/03",
+          "amount": "10.50"
+        },
+        {
+          "date": "leefweek duoparty",
+          "amount": "35.50"
+        },
+        {
+          "date": "bbq lichstoet",
+          "amount": "8.50"
+        },
+        {
+          "date": "openlucht",
+          "amount": "10.00"
+        },
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        },
+        {
+          "date": "bbq leefweek",
+          "amount": "20.00"
+        },
+        {
+          "date": "leefweek",
+          "amount": "23.00"
+        },
+        {
+          "date": "bbq",
+          "amount": "19.20"
+        },
+        {
+          "date": "rechtzetten foute ingeving",
+          "amount": "21.00"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "20.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-02-03",
+          "amount": "24.20"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "90.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "33.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "100.00"
+        },
+        {
+          "date": "2018-05-03",
+          "amount": "150.00"
+        },
+        {
+          "date": "2018-03-06",
+          "amount": "60.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "50.00"
+        },
+        {
+          "date": "2017-10-16",
+          "amount": "130.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "128.60"
+        },
+        {
+          "date": "2017-07-04",
+          "amount": "150.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Ondeugende Moeflon"
+      }
+    ],
+    "price": [
+      {
+        "price": "10"
+      }
+    ],
+    "name": ["Heylen Bram"],
+    "bakken": [
+      [
+        {
+          "date": "2017-08-07",
+          "amount": "10.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-01-31",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-08-04",
+          "amount": "10.00"
+        },
+        {
+          "date": "2013-05-20",
+          "amount": "12.00"
+        },
+        {
+          "date": "2012-03-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-09-23",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-10-20",
+          "amount": "10.00"
+        },
+        {
+          "date": "2009-10-11",
+          "amount": "10.00"
+        },
+        {
+          "date": "2009-06-21",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "30.00"
+        },
+        {
+          "date": "leindingsweekend",
+          "amount": "4.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 NAWACHT",
+          "amount": "4.00"
+        },
+        {
+          "date": "10 % DEAL 1 JULI 2009",
+          "amount": "3.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2017-03-15",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-07-10",
+          "amount": "20.40"
+        },
+        {
+          "date": "2013-07-11",
+          "amount": "30.00"
+        },
+        {
+          "date": "2012-07-06",
+          "amount": "100.00"
+        },
+        {
+          "date": "2011-06-27",
+          "amount": "50.00"
+        },
+        {
+          "date": "2009-09-06",
+          "amount": "60.00"
+        },
+        {
+          "date": "2008-11-02",
+          "amount": "10.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Zorgeloze Olifant"
+      }
+    ],
+    "price": [
+      {
+        "price": "46.84"
+      }
+    ],
+    "name": ["Renkin Thomas"],
+    "bakken": [
+      [
+        {
+          "date": "2019-02-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2019-01-17",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-12-23",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "132.00"
+        },
+        {
+          "date": "2018-07-14",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "55.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "33.00"
+        },
+        {
+          "date": "2017-10-23",
+          "amount": "11.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "bbq lichstoet",
+          "amount": "8.50"
+        },
+        {
+          "date": "openlucht",
+          "amount": "10.00"
+        },
+        {
+          "date": "bbq leefweek",
+          "amount": "20.00"
+        },
+        {
+          "date": "leefweek",
+          "amount": "23.00"
+        },
+        {
+          "date": "afhaling geld, kaart is stuk",
+          "amount": "50.00"
+        },
+        {
+          "date": "bankkaart kwijt, gebruik gemaakt om te betalen in winkels",
+          "amount": "30.46"
+        },
+        {
+          "date": "den overschot",
+          "amount": "4.43"
+        },
+        {
+          "date": "kleine rommel wisselen in flapkes, geld te veel om volledig flapke te vangen",
+          "amount": "2.10"
+        },
+        {
+          "date": "bbq",
+          "amount": "19.20"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "20.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-30",
+          "amount": "150.00"
+        },
+        {
+          "date": "2018-05-01",
+          "amount": "120.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "190.20"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "200.00"
+        },
+        {
+          "date": "2017-03-23",
+          "amount": "150.00"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "150.00"
+        },
+        {
+          "date": "2016-10-24",
+          "amount": "150.00"
+        },
+        {
+          "date": "2016-07-10",
+          "amount": "175.00"
+        },
+        {
+          "date": "2016-05-23",
+          "amount": "100.00"
+        },
+        {
+          "date": "2016-03-31",
+          "amount": "200.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "opendeurdag opendeurdag"
+      }
+    ],
+    "price": [
+      {
+        "price": "0"
+      }
+    ],
+    "name": ["opendeurdag opendeurdag"],
+    "bakken": [
+      [
+        {
+          "date": "2014-09-21",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-09-21",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2014-09-24",
+          "amount": "20.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Vrijmoedige Panda"
+      }
+    ],
+    "price": [
+      {
+        "price": "48.8"
+      }
+    ],
+    "name": ["Sas Wim"],
+    "bakken": [
+      [
+        {
+          "date": "2013-10-09",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-09-19",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-08-17",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-06-05",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-03-27",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-12-19",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-12-19",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "20.00"
+        },
+        {
+          "date": "2010-05-13",
+          "amount": "10.00"
+        },
+        {
+          "date": "2009-10-11",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "10.00"
+        },
+        {
+          "date": "Kamp Felenne 20111 bak",
+          "amount": "12.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "20.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        },
+        {
+          "date": "Scoutsjaar 2007-2008",
+          "amount": "18.50"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2012-05-02",
+          "amount": "51.60"
+        },
+        {
+          "date": "2011-05-08",
+          "amount": "89.40"
+        },
+        {
+          "date": "2009-08-10",
+          "amount": "56.00"
+        },
+        {
+          "date": "2009-06-27",
+          "amount": "20.00"
+        },
+        {
+          "date": "2009-05-08",
+          "amount": "15.00"
+        },
+        {
+          "date": "2009-03-16",
+          "amount": "45.00"
+        },
+        {
+          "date": "2008-11-28",
+          "amount": "20.00"
+        },
+        {
+          "date": "2008-10-20",
+          "amount": "30.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "saki"
+      }
+    ],
+    "price": [
+      {
+        "price": "12"
+      }
+    ],
+    "name": ["melanie "],
+    "bakken": [
+      [
+        {
+          "date": "2018-12-28",
+          "amount": "12.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      []
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Gemoedelijke Saterhoen"
+      }
+    ],
+    "price": [
+      {
+        "price": "16.8"
+      }
+    ],
+    "name": ["Maarten Van den Hof"],
+    "bakken": [
+      [
+        {
+          "date": "2018-10-01",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-04-05",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-10-05",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-09-28",
+          "amount": "20.00"
+        },
+        {
+          "date": "2014-09-11",
+          "amount": "10.00"
+        },
+        {
+          "date": "2013-10-09",
+          "amount": "12.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "bbq",
+          "amount": "19.20"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "10.00"
+        },
+        {
+          "date": "Kamp Felenne 20111 bak (reeds betaald)",
+          "amount": "0.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-08-30",
+          "amount": "30.00"
+        },
+        {
+          "date": "2018-05-01",
+          "amount": "37.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "55.00"
+        },
+        {
+          "date": "2015-07-10",
+          "amount": "30.00"
+        },
+        {
+          "date": "2015-04-17",
+          "amount": "75.00"
+        },
+        {
+          "date": "2014-07-16",
+          "amount": "50.00"
+        },
+        {
+          "date": "2013-06-30",
+          "amount": "25.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Beheerste Schaarbek"
+      }
+    ],
+    "price": [
+      {
+        "price": "-48"
+      }
+    ],
+    "name": ["Huber Thomas"],
+    "bakken": [
+      [
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-07-02",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-10-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-10-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "20.00"
+        },
+        {
+          "date": "2016-09-24",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-03-17",
+          "amount": "100.00"
+        },
+        {
+          "date": "2018-05-03",
+          "amount": "40.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "60.00"
+        },
+        {
+          "date": "2017-03-23",
+          "amount": "50.00"
+        },
+        {
+          "date": "2016-07-15",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-08-08",
+          "amount": "50.00"
+        },
+        {
+          "date": "2014-02-10",
+          "amount": "24.00"
+        },
+        {
+          "date": "2014-01-10",
+          "amount": "24.00"
+        },
+        {
+          "date": "2013-07-14",
+          "amount": "35.00"
+        },
+        {
+          "date": "2012-06-10",
+          "amount": "8.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Oprechte Secretarisvogel"
+      }
+    ],
+    "price": [
+      {
+        "price": "-15.6"
+      }
+    ],
+    "name": ["Vandenschilden Jan"],
+    "bakken": [
+      [
+        {
+          "date": "2014-08-04",
+          "amount": "10.00"
+        },
+        {
+          "date": "2012-12-23",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "30.00"
+        },
+        {
+          "date": "Kamp Felenne 20111 bak",
+          "amount": "12.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2014-07-16",
+          "amount": "60.00"
+        },
+        {
+          "date": "2012-09-11",
+          "amount": "45.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Sociale Serval"
+      }
+    ],
+    "price": [
+      {
+        "price": "39.89"
+      }
+    ],
+    "name": ["Mertens Toon"],
+    "bakken": [
+      [
+        {
+          "date": "2018-10-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-10-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-08-01",
+          "amount": "48.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-10-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "20.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "40.00"
+        },
+        {
+          "date": "2017-04-13",
+          "amount": "10.00"
+        },
+        {
+          "date": "2017-03-15",
+          "amount": "22.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "gouw dropping 18/03",
+          "amount": "10.50"
+        },
+        {
+          "date": "openlucht",
+          "amount": "10.00"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "10.00"
+        },
+        {
+          "date": "Kamp Felenne 20112 bakken (één reeds betaald)",
+          "amount": "12.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-04",
+          "amount": "80.00"
+        },
+        {
+          "date": "2017-11-22",
+          "amount": "150.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "60.00"
+        },
+        {
+          "date": "2017-03-23",
+          "amount": "80.00"
+        },
+        {
+          "date": "2016-12-03",
+          "amount": "110.71"
+        },
+        {
+          "date": "2016-10-29",
+          "amount": "80.00"
+        },
+        {
+          "date": "2015-07-08",
+          "amount": "83.00"
+        },
+        {
+          "date": "2015-03-24",
+          "amount": "50.00"
+        },
+        {
+          "date": "2014-07-15",
+          "amount": "50.00"
+        },
+        {
+          "date": "2013-07-12",
+          "amount": "20.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Siamang"
+      }
+    ],
+    "price": [
+      {
+        "price": "-0.4"
+      }
+    ],
+    "name": ["De Cock Raj"],
+    "bakken": [
+      [
+        {
+          "date": "2012-05-02",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-12-19",
+          "amount": "12.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Felenne 20113 bakken (één reeds betaald)",
+          "amount": "24.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2017-03-15",
+          "amount": "20.00"
+        },
+        {
+          "date": "2012-02-09",
+          "amount": "21.00"
+        },
+        {
+          "date": "2011-07-30",
+          "amount": "20.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Sociale Sifaka"
+      }
+    ],
+    "price": [
+      {
+        "price": "12"
+      }
+    ],
+    "name": ["Van Tricht Senne"],
+    "bakken": [
+      [
+        {
+          "date": "2019-08-01",
+          "amount": "12.00"
+        },
+        {
+          "date": "2016-09-24",
+          "amount": "10.00"
+        },
+        {
+          "date": "2011-02-15",
+          "amount": "12.00"
+        },
+        {
+          "date": "2010-10-20",
+          "amount": "10.00"
+        },
+        {
+          "date": "2010-10-20",
+          "amount": "10.00"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "10.00"
+        },
+        {
+          "date": "2010-05-13",
+          "amount": "10.00"
+        },
+        {
+          "date": "2010-01-29",
+          "amount": "10.00"
+        },
+        {
+          "date": "2009-04-19",
+          "amount": "10.00"
+        },
+        {
+          "date": "2009-02-28",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        },
+        {
+          "date": "Scoutsjaar 2007-2008",
+          "amount": "89.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2017-03-15",
+          "amount": "13.80"
+        },
+        {
+          "date": "2011-05-11",
+          "amount": "30.00"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "50.00"
+        },
+        {
+          "date": "2010-05-16",
+          "amount": "50.00"
+        },
+        {
+          "date": "2009-05-12",
+          "amount": "25.00"
+        },
+        {
+          "date": "2009-02-11",
+          "amount": "20.00"
+        },
+        {
+          "date": "2008-10-06",
+          "amount": "100.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Aangename Sikahert"
+      }
+    ],
+    "price": [
+      {
+        "price": "0"
+      }
+    ],
+    "name": ["Rombauts Bart"],
+    "bakken": [
+      [
+        {
+          "date": "2017-08-07",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-09-09",
+          "amount": "20.00"
+        },
+        {
+          "date": "2014-08-04",
+          "amount": "10.00"
+        },
+        {
+          "date": "2013-11-28",
+          "amount": "12.00"
+        },
+        {
+          "date": "2013-11-04",
+          "amount": "12.00"
+        },
+        {
+          "date": "2013-09-02",
+          "amount": "12.00"
+        },
+        {
+          "date": "2012-12-31",
+          "amount": "10.00"
+        },
+        {
+          "date": "2012-09-24",
+          "amount": "10.00"
+        },
+        {
+          "date": "2012-03-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2011-10-29",
+          "amount": "12.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "Kamp Felenne 20112 bakken",
+          "amount": "24.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "20.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        },
+        {
+          "date": "Scoutsjaar 2007-2008",
+          "amount": "24.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-08",
+          "amount": "16.00"
+        },
+        {
+          "date": "2017-03-15",
+          "amount": "32.80"
+        },
+        {
+          "date": "2014-04-08",
+          "amount": "50.00"
+        },
+        {
+          "date": "2013-06-27",
+          "amount": "50.00"
+        },
+        {
+          "date": "2012-07-09",
+          "amount": "60.00"
+        },
+        {
+          "date": "2011-07-14",
+          "amount": "0.60"
+        },
+        {
+          "date": "2011-07-12",
+          "amount": "20.00"
+        },
+        {
+          "date": "2011-05-12",
+          "amount": "100.00"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "50.00"
+        },
+        {
+          "date": "2009-09-08",
+          "amount": "25.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "behendige Spinaap"
+      }
+    ],
+    "price": [
+      {
+        "price": "11.3"
+      }
+    ],
+    "name": ["Van den Bosch Wannes"],
+    "bakken": [
+      [
+        {
+          "date": "2015-11-27",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-09-09",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-05-01",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-03-03",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-12-13",
+          "amount": "10.00"
+        },
+        {
+          "date": "2013-11-04",
+          "amount": "12.00"
+        },
+        {
+          "date": "2013-11-04",
+          "amount": "12.00"
+        },
+        {
+          "date": "2012-09-24",
+          "amount": "10.00"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "20.00"
+        },
+        {
+          "date": "2000-01-01",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2015-07-10",
+          "amount": "55.00"
+        },
+        {
+          "date": "2014-07-16",
+          "amount": "68.10"
+        },
+        {
+          "date": "2013-07-11",
+          "amount": "80.00"
+        },
+        {
+          "date": "2012-10-12",
+          "amount": "80.00"
+        },
+        {
+          "date": "2010-03-06",
+          "amount": "20.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Energieke Spitsvogel"
+      }
+    ],
+    "price": [
+      {
+        "price": "22.99"
+      }
+    ],
+    "name": ["Planckaert Rens"],
+    "bakken": [
+      [
+        {
+          "date": "2018-08-01",
+          "amount": "84.00"
+        },
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-08-07",
+          "amount": "30.00"
+        },
+        {
+          "date": "2016-09-24",
+          "amount": "20.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "40.00"
+        },
+        {
+          "date": "2015-11-27",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-09-09",
+          "amount": "60.00"
+        },
+        {
+          "date": "2015-08-08",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-06-06",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-05-25",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "geleend van poef",
+          "amount": "20.00"
+        },
+        {
+          "date": "bbq",
+          "amount": "19.20"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "40.00"
+        },
+        {
+          "date": "",
+          "amount": "56.50"
+        },
+        {
+          "date": "",
+          "amount": "76.00"
+        },
+        {
+          "date": "speciale bieren duo",
+          "amount": "4.89"
+        },
+        {
+          "date": "leindingsweekend",
+          "amount": "4.00"
+        },
+        {
+          "date": "Kamp Felenne 20114 bakken",
+          "amount": "48.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "40.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2017-07-14",
+          "amount": "100.00"
+        },
+        {
+          "date": "2016-08-03",
+          "amount": "100.00"
+        },
+        {
+          "date": "2016-02-03",
+          "amount": "120.00"
+        },
+        {
+          "date": "2015-07-07",
+          "amount": "100.00"
+        },
+        {
+          "date": "2015-05-30",
+          "amount": "50.00"
+        },
+        {
+          "date": "2015-02-17",
+          "amount": "100.00"
+        },
+        {
+          "date": "2014-12-10",
+          "amount": "40.00"
+        },
+        {
+          "date": "2014-11-15",
+          "amount": "70.00"
+        },
+        {
+          "date": "2014-09-23",
+          "amount": "100.00"
+        },
+        {
+          "date": "2014-07-16",
+          "amount": "150.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "tevreden Spreeuw"
+      }
+    ],
+    "price": [
+      {
+        "price": "-20.8"
+      }
+    ],
+    "name": ["Tjoen Thomas"],
+    "bakken": [
+      [
+        {
+          "date": "2017-08-07",
+          "amount": "40.00"
+        },
+        {
+          "date": "2017-04-13",
+          "amount": "10.00"
+        },
+        {
+          "date": "2017-03-15",
+          "amount": "11.00"
+        },
+        {
+          "date": "2016-09-24",
+          "amount": "20.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-09-09",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-10-21",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-10-05",
+          "amount": "20.00"
+        },
+        {
+          "date": "2014-07-11",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-04-15",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "leefweek",
+          "amount": "23.00"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "0.00"
+        },
+        {
+          "date": "correctie",
+          "amount": "12.50"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-07",
+          "amount": "80.00"
+        },
+        {
+          "date": "2017-07-14",
+          "amount": "90.00"
+        },
+        {
+          "date": "2017-03-18",
+          "amount": "70.00"
+        },
+        {
+          "date": "2016-07-15",
+          "amount": "100.00"
+        },
+        {
+          "date": "2015-07-13",
+          "amount": "60.00"
+        },
+        {
+          "date": "2014-07-15",
+          "amount": "50.00"
+        },
+        {
+          "date": "2013-07-15",
+          "amount": "40.00"
+        },
+        {
+          "date": "2013-07-02",
+          "amount": "50.00"
+        },
+        {
+          "date": "2012-07-02",
+          "amount": "15.50"
+        },
+        {
+          "date": "2011-01-31",
+          "amount": "15.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Gezellige Steenbok"
+      }
+    ],
+    "price": [
+      {
+        "price": "-4.6"
+      }
+    ],
+    "name": ["Sluyts Lotte"],
+    "bakken": [
+      [
+        {
+          "date": "2013-04-10",
+          "amount": "12.00"
+        },
+        {
+          "date": "2012-04-04",
+          "amount": "12.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "",
+          "amount": "2.00"
+        },
+        {
+          "date": "speciale bieren duo",
+          "amount": "1.65"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2014-03-18",
+          "amount": "23.00"
+        },
+        {
+          "date": "2012-05-02",
+          "amount": "23.85"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Assertieve Steenbok"
+      }
+    ],
+    "price": [
+      {
+        "price": "0"
+      }
+    ],
+    "name": ["Moeyersons Thomas"],
+    "bakken": [
+      [
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-11-27",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-09-09",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-05-01",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-01-31",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-12-22",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-09-16",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-09-16",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "stokbrood + preparé du chef",
+          "amount": "3.51"
+        },
+        {
+          "date": "foutje rechtzetten",
+          "amount": "0.18"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "30.00"
+        },
+        {
+          "date": "",
+          "amount": "31.00"
+        },
+        {
+          "date": "speciale bieren duo",
+          "amount": "11.32"
+        },
+        {
+          "date": "leindingsweekend",
+          "amount": "4.00"
+        },
+        {
+          "date": "Kamp Felenne 20113 bakken",
+          "amount": "36.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "30.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        },
+        {
+          "date": "Scoutsjaar 2007-2008",
+          "amount": "-3.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2017-11-17",
+          "amount": "25.60"
+        },
+        {
+          "date": "2017-03-15",
+          "amount": "63.00"
+        },
+        {
+          "date": "2015-04-05",
+          "amount": "28.51"
+        },
+        {
+          "date": "2014-09-22",
+          "amount": "20.00"
+        },
+        {
+          "date": "2014-09-17",
+          "amount": "0.20"
+        },
+        {
+          "date": "2014-09-17",
+          "amount": "13.00"
+        },
+        {
+          "date": "2014-07-15",
+          "amount": "100.00"
+        },
+        {
+          "date": "2014-05-16",
+          "amount": "30.00"
+        },
+        {
+          "date": "2014-03-03",
+          "amount": "75.00"
+        },
+        {
+          "date": "2013-12-03",
+          "amount": "50.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Stekelstaarteekhoorn (v)"
+      }
+    ],
+    "price": [
+      {
+        "price": "-17.6"
+      }
+    ],
+    "name": ["De Vos Joke"],
+    "bakken": [
+      []
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2015-08-08",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-07-13",
+          "amount": "10.00"
+        },
+        {
+          "date": "2013-11-28",
+          "amount": "0.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "doordachte stokstaart"
+      }
+    ],
+    "price": [
+      {
+        "price": "33.8"
+      }
+    ],
+    "name": ["van Eekert Maarten"],
+    "bakken": [
+      [
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-03-15",
+          "amount": "11.00"
+        },
+        {
+          "date": "2015-08-08",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      []
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Clevere Suricata"
+      }
+    ],
+    "price": [
+      {
+        "price": "0"
+      }
+    ],
+    "name": ["Verlinden Katrien"],
+    "bakken": [
+      [
+        {
+          "date": "2012-09-12",
+          "amount": "10.00"
+        },
+        {
+          "date": "2010-05-13",
+          "amount": "10.00"
+        },
+        {
+          "date": "2010-05-13",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      []
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2017-03-15",
+          "amount": "3.60"
+        },
+        {
+          "date": "2013-05-10",
+          "amount": "17.20"
+        },
+        {
+          "date": "2012-07-05",
+          "amount": "0.60"
+        },
+        {
+          "date": "2012-05-05",
+          "amount": "3.00"
+        },
+        {
+          "date": "2011-11-18",
+          "amount": "1.80"
+        },
+        {
+          "date": "2011-05-13",
+          "amount": "3.60"
+        },
+        {
+          "date": "2010-08-13",
+          "amount": "25.00"
+        },
+        {
+          "date": "2009-12-06",
+          "amount": "1.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Guitige Tagoean"
+      }
+    ],
+    "price": [
+      {
+        "price": "0.00999999999999"
+      }
+    ],
+    "name": ["Van Aken Nick"],
+    "bakken": [
+      [
+        {
+          "date": "2017-08-07",
+          "amount": "40.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "30.00"
+        },
+        {
+          "date": "2016-05-25",
+          "amount": "12.00"
+        },
+        {
+          "date": "2015-09-09",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-01-31",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-08-04",
+          "amount": "40.00"
+        },
+        {
+          "date": "2014-07-11",
+          "amount": "10.00"
+        },
+        {
+          "date": "2014-02-15",
+          "amount": "12.00"
+        },
+        {
+          "date": "2014-02-15",
+          "amount": "12.00"
+        },
+        {
+          "date": "2013-11-28",
+          "amount": "12.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "20.00"
+        },
+        {
+          "date": "",
+          "amount": "8.89"
+        },
+        {
+          "date": "",
+          "amount": "9.41"
+        },
+        {
+          "date": "",
+          "amount": "5.00"
+        },
+        {
+          "date": "chips en snoep",
+          "amount": "4.13"
+        },
+        {
+          "date": "",
+          "amount": "52.00"
+        },
+        {
+          "date": "leindingsweekend",
+          "amount": "4.00"
+        },
+        {
+          "date": "Kamp Felenne 20113 bakken",
+          "amount": "36.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "20.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-03",
+          "amount": "24.29"
+        },
+        {
+          "date": "2017-03-18",
+          "amount": "100.00"
+        },
+        {
+          "date": "2015-04-05",
+          "amount": "34.98"
+        },
+        {
+          "date": "2014-09-11",
+          "amount": "80.00"
+        },
+        {
+          "date": "2014-01-02",
+          "amount": "100.00"
+        },
+        {
+          "date": "2013-07-02",
+          "amount": "100.00"
+        },
+        {
+          "date": "2013-06-10",
+          "amount": "25.00"
+        },
+        {
+          "date": "2013-03-30",
+          "amount": "100.00"
+        },
+        {
+          "date": "2012-07-04",
+          "amount": "70.00"
+        },
+        {
+          "date": "2012-06-05",
+          "amount": "50.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Drukke Tupaja"
+      }
+    ],
+    "price": [
+      {
+        "price": "37.83"
+      }
+    ],
+    "name": ["Janssens Michiel"],
+    "bakken": [
+      [
+        {
+          "date": "2017-10-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-07-04",
+          "amount": "10.00"
+        },
+        {
+          "date": "2017-03-15",
+          "amount": "11.00"
+        },
+        {
+          "date": "2016-09-24",
+          "amount": "10.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "20.00"
+        },
+        {
+          "date": "2016-07-01",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-08-08",
+          "amount": "30.00"
+        },
+        {
+          "date": "2015-05-01",
+          "amount": "20.00"
+        },
+        {
+          "date": "2014-08-04",
+          "amount": "20.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "BBQ",
+          "amount": "8.70"
+        },
+        {
+          "date": "bbq leefweek",
+          "amount": "20.00"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "30.00"
+        },
+        {
+          "date": "",
+          "amount": "46.00"
+        },
+        {
+          "date": "speciale bieren duo",
+          "amount": "5.03"
+        },
+        {
+          "date": "Kamp Felenne 20113 bakken",
+          "amount": "36.00"
+        },
+        {
+          "date": "Bak Stier",
+          "amount": "12.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "30.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOORWACHT",
+          "amount": "4.00"
+        },
+        {
+          "date": "10 % DEAL 1 JULI 2009",
+          "amount": "3.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2017-07-04",
+          "amount": "50.00"
+        },
+        {
+          "date": "2016-09-26",
+          "amount": "150.00"
+        },
+        {
+          "date": "2015-07-08",
+          "amount": "65.00"
+        },
+        {
+          "date": "2015-02-27",
+          "amount": "60.00"
+        },
+        {
+          "date": "2014-09-21",
+          "amount": "70.00"
+        },
+        {
+          "date": "2014-06-14",
+          "amount": "100.00"
+        },
+        {
+          "date": "2013-07-12",
+          "amount": "60.00"
+        },
+        {
+          "date": "2013-04-04",
+          "amount": "80.00"
+        },
+        {
+          "date": "2012-12-29",
+          "amount": "80.00"
+        },
+        {
+          "date": "2012-10-26",
+          "amount": "120.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Gelaten Wasbeer"
+      }
+    ],
+    "price": [
+      {
+        "price": "-87.1"
+      }
+    ],
+    "name": ["Henderickx Ward"],
+    "bakken": [
+      [
+        {
+          "date": "2019-02-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-11-03",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-07-14",
+          "amount": "12.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-10-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-07-04",
+          "amount": "20.00"
+        },
+        {
+          "date": "2017-04-13",
+          "amount": "10.00"
+        },
+        {
+          "date": "2017-03-15",
+          "amount": "11.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "gouw dropping 18/03",
+          "amount": "10.50"
+        },
+        {
+          "date": "openlucht",
+          "amount": "10.00"
+        },
+        {
+          "date": "Kamp Warempage 2013",
+          "amount": "10.00"
+        },
+        {
+          "date": "",
+          "amount": "20.00"
+        },
+        {
+          "date": "Kamp Felenne 20114 bakken (één reeds betaald)",
+          "amount": "36.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009",
+          "amount": "30.00"
+        },
+        {
+          "date": "Kamp SINSIN 2009 VOOR + NAWACHT",
+          "amount": "8.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2019-02-04",
+          "amount": "100.00"
+        },
+        {
+          "date": "2018-08-31",
+          "amount": "50.00"
+        },
+        {
+          "date": "2018-03-05",
+          "amount": "130.00"
+        },
+        {
+          "date": "2017-10-23",
+          "amount": "100.00"
+        },
+        {
+          "date": "2017-10-02",
+          "amount": "200.00"
+        },
+        {
+          "date": "2017-03-18",
+          "amount": "90.00"
+        },
+        {
+          "date": "2016-07-10",
+          "amount": "157.50"
+        },
+        {
+          "date": "2015-12-02",
+          "amount": "70.00"
+        },
+        {
+          "date": "2015-05-29",
+          "amount": "100.00"
+        },
+        {
+          "date": "2014-09-22",
+          "amount": "200.00"
+        }
+      ]
+    ]
+  },
+  {
+    "totem": [
+      {
+        "totem": "Wisent"
+      }
+    ],
+    "price": [
+      {
+        "price": "4.4"
+      }
+    ],
+    "name": ["De Burghgraeve Kasper"],
+    "bakken": [
+      [
+        {
+          "date": "2018-08-01",
+          "amount": "24.00"
+        },
+        {
+          "date": "2018-04-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2018-02-20",
+          "amount": "22.00"
+        },
+        {
+          "date": "2017-09-23",
+          "amount": "11.00"
+        },
+        {
+          "date": "2017-02-19",
+          "amount": "11.00"
+        },
+        {
+          "date": "2016-09-24",
+          "amount": "10.00"
+        },
+        {
+          "date": "2016-07-31",
+          "amount": "20.00"
+        },
+        {
+          "date": "2016-07-01",
+          "amount": "10.00"
+        },
+        {
+          "date": "2015-09-09",
+          "amount": "20.00"
+        },
+        {
+          "date": "2015-06-06",
+          "amount": "10.00"
+        }
+      ]
+    ],
+    "andereKosten": [
+      [
+        {
+          "date": "orval",
+          "amount": "5.00"
+        }
+      ]
+    ],
+    "betalingen": [
+      [
+        {
+          "date": "2018-05-02",
+          "amount": "70.00"
+        },
+        {
+          "date": "2017-10-23",
+          "amount": "38.00"
+        },
+        {
+          "date": "2017-03-18",
+          "amount": "36.00"
+        },
+        {
+          "date": "2016-07-15",
+          "amount": "31.40"
+        },
+        {
+          "date": "2015-07-12",
+          "amount": "20.00"
+        },
+        {
+          "date": "2014-11-15",
+          "amount": "20.00"
+        }
+      ]
+    ]
   }
 ]
