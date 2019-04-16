@@ -28,6 +28,11 @@ $.getJSON("dataHome.json", function (data) {
     })
 })
 
+$.getJSON("testJsonList.json", function (data) {
+    console.log(data)
+})
+
+
 function setSelect() {
     $.getJSON("dataTotems.json", function (data) {
         selectPerson.innerHTML = "";
