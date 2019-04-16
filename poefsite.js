@@ -98,7 +98,6 @@ function showPersonal() {
     }
 
     $.getJSON("personDetails.json", function (data) {
-        console.log(selectedPerson)
         var price = 0;
         data.forEach(function (d) {
             
@@ -109,9 +108,7 @@ function showPersonal() {
                     document.getElementById("amount").innerHTML = "€" + price;
                 }
             } else {
-                console.log(d.name)
                 if (d.name == selectedPerson) {
-                    console.log(d)
                     price = d.price * -1;
                     document.getElementById("amount").innerHTML = "€" + price;
                 }
