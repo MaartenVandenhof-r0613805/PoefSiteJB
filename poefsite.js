@@ -146,7 +146,7 @@ function createTables(d) {
     var trH = document.createElement('tr');
     var th1 = document.createElement('th');
     var th2 = document.createElement('th');
-    th1.innerHTML = "Datum";
+    th1.innerHTML = "Reden";
     th2.innerHTML = "Bedrag";
     trH.append(th1, th2);
     var tableExp = document.getElementById("lastExpenses");
@@ -179,7 +179,6 @@ function createTables(d) {
     var maxRows = 0;
     d.bakken[0].forEach(function (b) {
         if (maxRows < 5) {
-            console.log(b)
             //Beer table
             var td1 = document.createElement('td');
             var td2 = document.createElement('td');

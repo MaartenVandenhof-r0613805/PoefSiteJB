@@ -3,7 +3,7 @@ nav {
     justify-content: center;
     align-items: center;
     height: 5%;
-    background: #0CAD9A     ;
+    background: #0CAD9A;
 }
 
 body {
@@ -27,7 +27,7 @@ a {
     align-items: center;
     width: 95%;
     height: 40px;
-    background: #fff     ;
+    background: #fff;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
     margin: 10px;
     max-width: 1000px;
@@ -87,15 +87,15 @@ main {
 #searchPerson div button {
     font-family: inherit;
     background: #fff;
-    border: 1.5px solid #0CAD9A     ;
+    border: 1.5px solid #0CAD9A;
     padding: 5px;
-    color: #0CAD9A     ;
+    color: #0CAD9A;
     width: 30%;
 }
 
 #searchPerson div button:hover {
     transition: 0.2s;
-    background: #0CAD9A     ;
+    background: #0CAD9A;
     color: #fff;
 }
 
@@ -104,15 +104,15 @@ main {
     width: 30%;
     font-family: inherit;
     height: 30px;
-    border: 1.5px solid #0CAD9A     ;
-    color: #3e5351     ;
+    border: 1.5px solid #0CAD9A;
+    color: #3e5351;
 }
 
 #search {
     width: 20%;
     height: 30px;
-    background: #0CAD9A     ;
-    border: 1.5px solid #0CAD9A     ;
+    background: #0CAD9A;
+    border: 1.5px solid #0CAD9A;
     color: #fff;
     font-family: inherit;
     font-size: 15px;
@@ -120,40 +120,40 @@ main {
 
 #message {
     width: 95%;
-    background: #0CAD9A     ;
+    background: #0CAD9A;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
     margin: 10px;
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-        max-width: 1000px;
+    max-width: 1000px;
 
 }
 
 #message h2 {
-  margin: 10px;
-  color: #fff;
+    margin: 10px;
+    color: #fff;
 }
 
 #message h1 {
-  margin: 10px;
-  color: #fff;
-  font-weight: bold;   
+    margin: 10px;
+    color: #fff;
+    font-weight: bold;
 }
 
 #person {
     width: 95%;
-    background: #0CAD9A     ;
+    background: #0CAD9A;
     margin: 5px;
-    margin-top: 20px;
+    margin-top: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
-    font-size: 20px;
+    font-size: 18px;
     flex-direction: column;
-        max-width: 1000px;
+    max-width: 1000px;
 }
 
 #person div {
@@ -163,7 +163,7 @@ main {
     background: #fff;
 }
 
-#person h1{
+#person h1 {
     color: #fff;
     margin: 5px;
 }
@@ -183,7 +183,7 @@ main {
 
 #person .amount {
     margin: 10px;
-    font-size: 19px;
+    font-size: 17px;
     color: #777777
 }
 
@@ -206,22 +206,22 @@ main {
 }
 
 #smallSummary h1 {
-    color: #0CAD9A     ;
+    color: #0CAD9A;
     font-size: 20px;
     font-weight: bold;
     width: 100%;
     text-align: center;
-    
+
 }
 
 #totem {
-    padding: 10px;
+    padding: 7px;
 }
 
-#searchPerson #preference button{
+#searchPerson #preference button {
     color: #fff;
     border: 1px solid #eee;
-    background: #0CAD9A ;
+    background: #0CAD9A;
     margin: 10px 30px;
     width: 20%
 }
@@ -234,8 +234,8 @@ main {
 }
 
 .summaryTable {
-  border-collapse: collapse;
-  width: 40%;
+    border-collapse: collapse;
+    width: 40%;
     text-align: center;
     color: #777;
     margin: 8px;
@@ -249,15 +249,24 @@ main {
     padding-bottom: 5px;
     border-bottom: 1px solid #cecece;
 }
-.summaryTable th, td {
-    width: 45%;
+
+.summaryTable th,
+td {
     height: 30px;
     vertical-align: middle;
+
 }
 
 .left {
-    border-right: 1px solid #cecece
+    border-right: 1px solid #cecece;
 }
+
+
+#lastExpenses .left {
+    text-align: left;
+    width: 60%;
+}
+
 .right {
     border-left: 1px solid #cecece
 }
@@ -271,7 +280,8 @@ main {
     font-weight: 600;
 }
 
-#rounds th, td{
+#rounds th,
+td {
     width: 20%;
     height: 30px;
     vertical-align: middle;
@@ -289,17 +299,20 @@ main {
     padding-bottom: 5px;
 }
 
-@media only screen and (max-width: 600px){
-    .summaryTable{
+@media only screen and (max-width: 800px) {
+    .summaryTable {
         width: 90%;
     }
-    
+
     .tableTitleM {
         display: flex;
     }
-    
-    .tableTitle{
+
+    .tableTitle {
         display: none;
     }
-}
 
+    #lastExpenses {
+        width: 70%;
+    }
+}
