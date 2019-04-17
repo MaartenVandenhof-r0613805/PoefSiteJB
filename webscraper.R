@@ -135,6 +135,6 @@ totemsC <- sapply(totems$Totem, function(x){
 })
 totemsC <- as.data.frame(totemsC)
 totems$Totem <- totemsC$totemsC
-
+totems <- totems[order(totems$Totem),]
 jsonFile <- toJSON(totems, pretty = TRUE)
 write(jsonFile, "dataTotems.json")

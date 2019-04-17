@@ -269,3 +269,9 @@ main {
     color: #0CAD9A;
     font-weight: 600;
 }
+
+#rounds th, td{
+    width: 20%;
+    height: 30px;
+    vertical-align: middle;
+}

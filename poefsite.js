@@ -104,24 +104,10 @@ function showPersonal() {
         var price = 0;
         data.forEach(function (d) {
             if (preference == "Totem") {
-                console.log(d)
                 if (d.totem[0].totem == selectedPerson) {
                     price = d.price[0].price * -1;
                     document.getElementById("amount").innerHTML = "€" + price;
-                    var table = document.getElementById("lastBeer");
-                    table.innerHTML = "";
-                    d.bakken[0].forEach(function (b) {
-                        var td1 = document.createElement('td');
-                        var td2 = document.createElement('td');
-                        var tr = document.createElement('tr');
-                        td1.innerHTML = b.date;
-                        td2.innerHTML = b.amount;
-                        td1.classList = "left";
-                        td2.classList = "right";
-                        tr.append(td1, td2);
-                        console.log(b)
-                        table.appendChild(tr);
-                    })
+                    createTables(d)
                 }
             } else {
                 var name = "";
@@ -133,21 +119,7 @@ function showPersonal() {
 
                     price = d.price[0].price * -1;
                     document.getElementById("amount").innerHTML = "€" + price;
-                    var table = document.getElementById("lastBeer");
-                    table.innerHTML = "";
-
-                    d.bakken[0].forEach(function (b) {
-                        var td1 = document.createElement('td');
-                        var td2 = document.createElement('td');
-                        var tr = document.createElement('tr');
-                        td1.innerHTML = b.date;
-                        td2.innerHTML = b.amount;
-                        td1.classList = "left";
-                        td2.classList = "right";
-                        tr.append(td1, td2);
-                        console.log(b)
-                        table.appendChild(tr);
-                    })
+                    createTables(d)
 
                 }
             }
@@ -160,6 +132,173 @@ function showPersonal() {
     })
 }
 
+function createTables(d) {
+    var trH = document.createElement('tr');
+    var th1 = document.createElement('th');
+    var th2 = document.createElement('th');
+    th1.innerHTML = "Datum";
+    th2.innerHTML = "Bedrag";
+    trH.append(th1, th2);
+    var table = document.getElementById("lastBeer");
+    table.innerHTML = "";
+    table.append(trH);
+
+    var trH = document.createElement('tr');
+    var th1 = document.createElement('th');
+    var th2 = document.createElement('th');
+    th1.innerHTML = "Datum";
+    th2.innerHTML = "Bedrag";
+    trH.append(th1, th2);
+    var tableExp = document.getElementById("lastExpenses");
+    tableExp.innerHTML = "";
+    tableExp.append(trH);
+
+    var trH = document.createElement('tr');
+    var th1 = document.createElement('th');
+    var th2 = document.createElement('th');
+    th1.innerHTML = "Datum";
+    th2.innerHTML = "Bedrag";
+    trH.append(th1, th2);
+    var tablePay = document.getElementById("payments");
+    tablePay.innerHTML = "";
+    tablePay.append(trH);
+    
+    
+    var trH = document.createElement('tr');
+    var th1 = document.createElement('th');
+    var th2 = document.createElement('th');
+      var th3 = document.createElement('th');
+    th1.innerHTML = "Datum";
+    th2.innerHTML = "Aantal";
+    th3.innerHTML = "Bedrag";
+    trH.append(th1, th2, th3);
+    var tableR = document.getElementById("rounds");
+    tableR.innerHTML = "";
+    tableR.append(trH);
+
+    var maxRows = 0;
+    d.bakken[0].forEach(function (b) {
+        if (maxRows < 5) {
+            console.log(b)
+            //Beer table
+            var td1 = document.createElement('td');
+            var td2 = document.createElement('td');
+            var tr = document.createElement('tr');
+            td1.innerHTML = b.date;
+            td2.innerHTML = b.amount;
+            td2.style.color = "red";
+            td1.classList = "left";
+            td2.classList = "right";
+            tr.append(td1, td2);
+            table.appendChild(tr);
+            maxRows++;
+        }
+    })
+    while (table.rows.length < 6) {
+        var td1 = document.createElement('td');
+        var td2 = document.createElement('td');
+        var tr = document.createElement('tr');
+        td1.innerHTML = "/";
+        td2.innerHTML = "/";
+        td1.classList = "left";
+        td2.classList = "right";
+        tr.append(td1, td2);
+        table.appendChild(tr);
+    }
+
+    maxRows = 0;
+    d.betalingen[0].forEach(function (b) {
+        if (maxRows < 5) {
+            //Payments table
+            var td1 = document.createElement('td');
+            var td2 = document.createElement('td');
+            var tr = document.createElement('tr');
+            td1.innerHTML = b.date;
+            td2.innerHTML = b.amount;
+            td2.style.color = "limegreen";
+            td1.classList = "left";
+            td2.classList = "right";
+            tr.append(td1, td2);
+            tablePay.appendChild(tr);
+            maxRows++
+        }
+        maxRows++;
+    });
+    while (tablePay.rows.length < 6) {
+        var td1 = document.createElement('td');
+        var td2 = document.createElement('td');
+        var tr = document.createElement('tr');
+        td1.innerHTML = "/";
+        td2.innerHTML = "/";
+        td1.classList = "left";
+        td2.classList = "right";
+        tr.append(td1, td2);
+        tablePay.appendChild(tr);
+    }
+
+    maxRows = 0;
+    d.andereKosten[0].forEach(function (b) {
+        if (maxRows < 5) {
+            //Expences table
+            var td1 = document.createElement('td');
+            var td2 = document.createElement('td');
+            var tr = document.createElement('tr');
+            td1.innerHTML = b.date;
+            td2.innerHTML = b.amount;
+            td2.style.color = "red";
+            td1.classList = "left";
+            td2.classList = "right";
+            tr.append(td1, td2);
+            tableExp.appendChild(tr);
+        }
+        maxRows++;
+    });
+    while (tableExp.rows.length < 6) {
+        var td1 = document.createElement('td');
+        var td2 = document.createElement('td');
+        var tr = document.createElement('tr');
+        td1.innerHTML = "/";
+        td2.innerHTML = "/";
+        td1.classList = "left";
+        td2.classList = "right";
+        tr.append(td1, td2);
+        tableExp.appendChild(tr);
+    }
+    
+    maxRows = 0;
+    d.rondjes[0].forEach(function (b) {
+        if (maxRows < 5) {
+            //Rounds table
+            var td1 = document.createElement('td');
+            var td2 = document.createElement('td');
+            var td3 = document.createElement('td');
+            var tr = document.createElement('tr');
+            td1.innerHTML = b.date;
+            td3.innerHTML = b.amount;
+            td2.innerHTML = b.count;
+            td2.style.color = "red";
+            td1.classList = "left";
+            td2.classList = "right";
+            tr.append(td1, td3, td2);
+            tableR.appendChild(tr);
+        }
+        maxRows++;
+    });
+    while (tableR.rows.length < 6) {
+        var td1 = document.createElement('td');
+            var td2 = document.createElement('td');
+            var td3 = document.createElement('td');
+            var tr = document.createElement('tr');
+            td1.innerHTML = "/";
+            td3.innerHTML = "/";
+            td2.innerHTML = "/";
+            td1.classList = "left";
+            td2.classList = "right";
+            tr.append(td1, td3, td2);
+        tableR.appendChild(tr);
+    }
+}
+
 function resetButtons() {
     vkButton.style.background = "#fff";
     vkButton.style.color = "#0CAD9A";
@@ -168,6 +307,7 @@ function resetButtons() {
     aButton.style.background = "#fff";
     aButton.style.color = "#0CAD9A";
 }
+
 
 document.getElementById("totemP").onclick = function () {
     preference = "Totem";
