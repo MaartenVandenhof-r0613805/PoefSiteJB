@@ -81,6 +81,7 @@ main {
     display: flex;
     width: 50%;
     justify-content: space-around;
+    min-width: 300px;
 }
 
 #searchPerson div button {
@@ -239,7 +240,7 @@ main {
     color: #777;
     margin: 8px;
     margin-top: 0px;
-    margin-bottom: 3px
+    margin-bottom: 3px;
 }
 
 .summaryTable th {
@@ -275,3 +276,30 @@ main {
     height: 30px;
     vertical-align: middle;
 }
+
+.tableTitleM {
+    color: #0CAD9A;
+    font-weight: 600;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    display: none;
+    border-bottom: 1px solid #0CAD9A;
+    padding-bottom: 5px;
+}
+
+@media only screen and (max-width: 600px){
+    .summaryTable{
+        width: 90%;
+    }
+    
+    .tableTitleM {
+        display: flex;
+    }
+    
+    .tableTitle{
+        display: none;
+    }
+}
+
