@@ -10,7 +10,10 @@ var aButton = document.getElementById("selectA");
 var searchButton = document.getElementById("search");
 var selectedPerson = "";
 
+var adminButton = document.getElementById("adminPage");
+
 var homeDivs = document.getElementsByClassName("home");
+var adminDivs = document.getElementsByClassName("admin");
 var personalDivs = document.getElementsByClassName("personal");
 
 
@@ -83,6 +86,10 @@ searchButton.onclick = function () {
     document.getElementById("totem").innerHTML = selectedPerson;
 }
 
+adminButton.onclick = function(){
+    showAdmin();
+}
+
 function showHome() {
     for (i = 0; i < personalDivs.length; i++) {
         personalDivs[i].style.display = "none";
@@ -90,9 +97,27 @@ function showHome() {
     for (i = 0; i < homeDivs.length; i++) {
         homeDivs[i].style.display = "flex";
     }
+    for (i = 0; i < adminDivs.length; i++) {
+        homeDivs[i].style.display = "none";
+    }
+}
+
+function showAdmin() {
+    for (i = 0; i < personalDivs.length; i++) {
+        personalDivs[i].style.display = "none";
+    }
+    for (i = 0; i < homeDivs.length; i++) {
+        homeDivs[i].style.display = "none";
+    }
+    for (i = 0; i < adminDivs.length; i++) {
+        homeDivs[i].style.display = "flex";
+    }
 }
 
 function showPersonal() {
+    for (i = 0; i < adminDivs.length; i++) {
+        homeDivs[i].style.display = "none";
+    }
     for (i = 0; i < personalDivs.length; i++) {
         personalDivs[i].style.display = "flex";
     }
