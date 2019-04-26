@@ -1,15 +1,7 @@
 [
   {
-    "totem": [
-      {
-        "totem": "Agame"
-      }
-    ],
-    "price": [
-      {
-        "price": "-3.4"
-      }
-    ],
+    "totem": ["Agame"],
+    "price": ["-3.4"],
     "name": ["Rune Decorte"],
     "rondjes": [
       [
@@ -50,16 +42,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Buffel"
-      }
-    ],
-    "price": [
-      {
-        "price": "23"
-      }
-    ],
+    "totem": ["Buffel"],
+    "price": ["23"],
     "name": [null],
     "rondjes": [
       []
@@ -84,16 +68,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Coati"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["Coati"],
+    "price": ["0"],
     "name": ["Jari Sijbers"],
     "rondjes": [
       []
@@ -119,16 +95,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Flamingo"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["Flamingo"],
+    "price": ["0"],
     "name": ["Thomas  Van Eekert"],
     "rondjes": [
       []
@@ -166,16 +134,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "fret"
-      }
-    ],
-    "price": [
-      {
-        "price": "-0.17"
-      }
-    ],
+    "totem": ["fret"],
+    "price": ["-0.17"],
     "name": ["Op de beeck lode"],
     "rondjes": [
       [
@@ -215,16 +175,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Gazelle"
-      }
-    ],
-    "price": [
-      {
-        "price": "-4.2"
-      }
-    ],
+    "totem": ["Gazelle"],
+    "price": ["-4.2"],
     "name": ["Viktor  Van Rompuy"],
     "rondjes": [
       [
@@ -300,16 +252,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "kameloen"
-      }
-    ],
-    "price": [
-      {
-        "price": "50"
-      }
-    ],
+    "totem": ["kameloen"],
+    "price": ["50"],
     "name": [null],
     "rondjes": [
       []
@@ -334,16 +278,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Labrador"
-      }
-    ],
-    "price": [
-      {
-        "price": "1"
-      }
-    ],
+    "totem": ["Labrador"],
+    "price": ["1"],
     "name": ["Elias  Huybrechts"],
     "rondjes": [
       [
@@ -397,16 +333,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Lama"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["Lama"],
+    "price": ["0"],
     "name": ["Quinten  Pauwels"],
     "rondjes": [
       [
@@ -478,16 +406,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "leeuw"
-      }
-    ],
-    "price": [
-      {
-        "price": "-3.8"
-      }
-    ],
+    "totem": ["leeuw"],
+    "price": ["-3.8"],
     "name": [null],
     "rondjes": [
       [
@@ -598,16 +518,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "papegaai"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["papegaai"],
+    "price": ["0"],
     "name": [null],
     "rondjes": [
       [
@@ -678,16 +590,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Schildpad"
-      }
-    ],
-    "price": [
-      {
-        "price": "12"
-      }
-    ],
+    "totem": ["Schildpad"],
+    "price": ["12"],
     "name": ["Simon  Miya"],
     "rondjes": [
       []
@@ -708,16 +612,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Smelleken"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["Smelleken"],
+    "price": ["0"],
     "name": ["De Meulemeester Jesse"],
     "rondjes": [
       []
@@ -733,16 +629,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "snoek"
-      }
-    ],
-    "price": [
-      {
-        "price": "11"
-      }
-    ],
+    "totem": ["snoek"],
+    "price": ["11"],
     "name": ["aerts thomas"],
     "rondjes": [
       []
@@ -763,16 +651,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "streepmuis"
-      }
-    ],
-    "price": [
-      {
-        "price": "-23"
-      }
-    ],
+    "totem": ["streepmuis"],
+    "price": ["-23"],
     "name": ["Wies Opdebeeck"],
     "rondjes": [
       []
@@ -818,16 +698,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Wolf"
-      }
-    ],
-    "price": [
-      {
-        "price": "75.4"
-      }
-    ],
+    "totem": ["Wolf"],
+    "price": ["75.4"],
     "name": ["Wiebe Van Vliet"],
     "rondjes": [
       [
@@ -884,16 +756,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Zeehond"
-      }
-    ],
-    "price": [
-      {
-        "price": "24"
-      }
-    ],
+    "totem": ["Zeehond"],
+    "price": ["24"],
     "name": ["Kobe Vanooteghem"],
     "rondjes": [
       []
@@ -918,16 +782,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Directe Bandro"
-      }
-    ],
-    "price": [
-      {
-        "price": "12"
-      }
-    ],
+    "totem": ["Directe Bandro"],
+    "price": ["12"],
     "name": ["Hannah Devries"],
     "rondjes": [
       [
@@ -987,16 +843,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Ruige Banteng"
-      }
-    ],
-    "price": [
-      {
-        "price": "129.6"
-      }
-    ],
+    "totem": ["Ruige Banteng"],
+    "price": ["129.6"],
     "name": ["Van Haaren Thijs"],
     "rondjes": [
       [
@@ -1150,16 +998,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Gedreven Beermarter"
-      }
-    ],
-    "price": [
-      {
-        "price": "101.35"
-      }
-    ],
+    "totem": ["Gedreven Beermarter"],
+    "price": ["101.35"],
     "name": ["Mrabet Jonas"],
     "rondjes": [
       [
@@ -1317,16 +1157,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Geslepen Coendu"
-      }
-    ],
-    "price": [
-      {
-        "price": "4"
-      }
-    ],
+    "totem": ["Geslepen Coendu"],
+    "price": ["4"],
     "name": ["Duez Quinten"],
     "rondjes": [
       [
@@ -1385,16 +1217,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Corvus"
-      }
-    ],
-    "price": [
-      {
-        "price": "28.2"
-      }
-    ],
+    "totem": ["Corvus"],
+    "price": ["28.2"],
     "name": ["Van Itterbeeck Rob"],
     "rondjes": [
       [
@@ -1515,16 +1339,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Uitdagende Eekhoorn"
-      }
-    ],
-    "price": [
-      {
-        "price": "-32.1"
-      }
-    ],
+    "totem": ["Uitdagende Eekhoorn"],
+    "price": ["-32.1"],
     "name": ["Vertommen Sander"],
     "rondjes": [
       [
@@ -1714,16 +1530,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Opgetogen Ekster"
-      }
-    ],
-    "price": [
-      {
-        "price": "116.9"
-      }
-    ],
+    "totem": ["Opgetogen Ekster"],
+    "price": ["116.9"],
     "name": ["Vertommen Jannes"],
     "rondjes": [
       [
@@ -1909,16 +1717,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Energieke Fitis"
-      }
-    ],
-    "price": [
-      {
-        "price": "26.4"
-      }
-    ],
+    "totem": ["Energieke Fitis"],
+    "price": ["26.4"],
     "name": ["Blommaerts Nele"],
     "rondjes": [
       [
@@ -1965,16 +1765,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Fantasierijke Fodi"
-      }
-    ],
-    "price": [
-      {
-        "price": "0.6"
-      }
-    ],
+    "totem": ["Fantasierijke Fodi"],
+    "price": ["0.6"],
     "name": ["Elien Devries"],
     "rondjes": [
       [
@@ -1996,16 +1788,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Vredige Fodi"
-      }
-    ],
-    "price": [
-      {
-        "price": "-47.53"
-      }
-    ],
+    "totem": ["Vredige Fodi"],
+    "price": ["-47.53"],
     "name": ["De Corte Berre"],
     "rondjes": [
       [
@@ -2175,16 +1959,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Gekko"
-      }
-    ],
-    "price": [
-      {
-        "price": "20.4"
-      }
-    ],
+    "totem": ["Gekko"],
+    "price": ["20.4"],
     "name": ["Lien Smets"],
     "rondjes": [
       [
@@ -2289,16 +2065,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Jolige Gibbon"
-      }
-    ],
-    "price": [
-      {
-        "price": "-20.1"
-      }
-    ],
+    "totem": ["Jolige Gibbon"],
+    "price": ["-20.1"],
     "name": ["Pijl Jonathan"],
     "rondjes": [
       [
@@ -2431,16 +2199,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "aangename Kauw"
-      }
-    ],
-    "price": [
-      {
-        "price": "-12.6"
-      }
-    ],
+    "totem": ["aangename Kauw"],
+    "price": ["-12.6"],
     "name": ["Cools Jordi"],
     "rondjes": [
       [
@@ -2594,16 +2354,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Kauw (v)"
-      }
-    ],
-    "price": [
-      {
-        "price": "1.5"
-      }
-    ],
+    "totem": ["Kauw (v)"],
+    "price": ["1.5"],
     "name": [" kelly"],
     "rondjes": [
       [
@@ -2625,16 +2377,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Koekoek"
-      }
-    ],
-    "price": [
-      {
-        "price": "17.6"
-      }
-    ],
+    "totem": ["Koekoek"],
+    "price": ["17.6"],
     "name": ["Tom Op de Beeck"],
     "rondjes": [
       [
@@ -2755,16 +2499,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Gemeenzame Mus"
-      }
-    ],
-    "price": [
-      {
-        "price": "-20"
-      }
-    ],
+    "totem": ["Gemeenzame Mus"],
+    "price": ["-20"],
     "name": ["Blomaerts Seppe"],
     "rondjes": [
       [
@@ -2942,16 +2678,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Bedachtzame Oerang-Oetan"
-      }
-    ],
-    "price": [
-      {
-        "price": "18.3"
-      }
-    ],
+    "totem": ["Bedachtzame Oerang-Oetan"],
+    "price": ["18.3"],
     "name": ["Decorte Kobe"],
     "rondjes": [
       [
@@ -3081,16 +2809,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Komische panda"
-      }
-    ],
-    "price": [
-      {
-        "price": "3.4"
-      }
-    ],
+    "totem": ["Komische panda"],
+    "price": ["3.4"],
     "name": ["Mrabet Jordy"],
     "rondjes": [
       [
@@ -3228,16 +2948,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Vinnige Saiga"
-      }
-    ],
-    "price": [
-      {
-        "price": "-6.5"
-      }
-    ],
+    "totem": ["Vinnige Saiga"],
+    "price": ["-6.5"],
     "name": ["Punjwani Simon"],
     "rondjes": [
       [
@@ -3359,16 +3071,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Geestdriftige Scholekster"
-      }
-    ],
-    "price": [
-      {
-        "price": "-28"
-      }
-    ],
+    "totem": ["Geestdriftige Scholekster"],
+    "price": ["-28"],
     "name": ["Vandekerkhove Brecht"],
     "rondjes": [
       [
@@ -3510,16 +3214,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Praatgrage Specht"
-      }
-    ],
-    "price": [
-      {
-        "price": "-14.14"
-      }
-    ],
+    "totem": ["Praatgrage Specht"],
+    "price": ["-14.14"],
     "name": ["Bjarne Pijl"],
     "rondjes": [
       [
@@ -3677,16 +3373,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Volgzame Stekelstaarteekhoorn"
-      }
-    ],
-    "price": [
-      {
-        "price": "-61.83"
-      }
-    ],
+    "totem": ["Volgzame Stekelstaarteekhoorn"],
+    "price": ["-61.83"],
     "name": ["Kobe Op De Beeck "],
     "rondjes": [
       [
@@ -3856,16 +3544,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Vermakelijke Stokstaart"
-      }
-    ],
-    "price": [
-      {
-        "price": "-40"
-      }
-    ],
+    "totem": ["Vermakelijke Stokstaart"],
+    "price": ["-40"],
     "name": ["Vercammen Sydney"],
     "rondjes": [
       []
@@ -3886,16 +3566,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Ijverige Toekan"
-      }
-    ],
-    "price": [
-      {
-        "price": "-85.86"
-      }
-    ],
+    "totem": ["Ijverige Toekan"],
+    "price": ["-85.86"],
     "name": ["Mathias Mrabet"],
     "rondjes": [
       [
@@ -4061,16 +3733,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "gemoedelijke veldmuis"
-      }
-    ],
-    "price": [
-      {
-        "price": "-49.4"
-      }
-    ],
+    "totem": ["gemoedelijke veldmuis"],
+    "price": ["-49.4"],
     "name": ["van Eester Ellen"],
     "rondjes": [
       [
@@ -4122,16 +3786,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Gedreven Adelaar"
-      }
-    ],
-    "price": [
-      {
-        "price": "28.6"
-      }
-    ],
+    "totem": ["Gedreven Adelaar"],
+    "price": ["28.6"],
     "name": ["Janssens Thomas"],
     "rondjes": [
       [
@@ -4285,16 +3941,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "SK Alpaca"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["SK Alpaca"],
+    "price": ["0"],
     "name": ["Femke Roels"],
     "rondjes": [
       []
@@ -4320,16 +3968,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Inventieve Alpaca"
-      }
-    ],
-    "price": [
-      {
-        "price": "-1.4"
-      }
-    ],
+    "totem": ["Inventieve Alpaca"],
+    "price": ["-1.4"],
     "name": ["Kinne Dag"],
     "rondjes": [
       [
@@ -4495,16 +4135,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Kordate Ara"
-      }
-    ],
-    "price": [
-      {
-        "price": "-3.3"
-      }
-    ],
+    "totem": ["Kordate Ara"],
+    "price": ["-3.3"],
     "name": ["Verbeeck Thijs"],
     "rondjes": [
       [
@@ -4694,16 +4326,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Vurige Arakanga"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["Vurige Arakanga"],
+    "price": ["0"],
     "name": ["De Keyser Hanne"],
     "rondjes": [
       [
@@ -4749,16 +4373,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Pientere Arasari"
-      }
-    ],
-    "price": [
-      {
-        "price": "16.9"
-      }
-    ],
+    "totem": ["Pientere Arasari"],
+    "price": ["16.9"],
     "name": ["Suykens Michiel"],
     "rondjes": [
       [
@@ -4948,16 +4564,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "toegewijde Arend"
-      }
-    ],
-    "price": [
-      {
-        "price": "-22.66"
-      }
-    ],
+    "totem": ["toegewijde Arend"],
+    "price": ["-22.66"],
     "name": ["De Vos Jelle"],
     "rondjes": [
       [
@@ -5123,16 +4731,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Gemotiveerde Barry"
-      }
-    ],
-    "price": [
-      {
-        "price": "-0.4"
-      }
-    ],
+    "totem": ["Gemotiveerde Barry"],
+    "price": ["-0.4"],
     "name": ["Sluyts Wannes"],
     "rondjes": [
       [
@@ -5298,16 +4898,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Geestige Carancho"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["Geestige Carancho"],
+    "price": ["0"],
     "name": ["Verstraeten Gert"],
     "rondjes": [
       [
@@ -5497,16 +5089,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Cheetah"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["Cheetah"],
+    "price": ["0"],
     "name": ["Dageraad Somers"],
     "rondjes": [
       [
@@ -5548,16 +5132,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "kas Gidsen"
-      }
-    ],
-    "price": [
-      {
-        "price": "-34.5"
-      }
-    ],
+    "totem": ["kas Gidsen"],
+    "price": ["-34.5"],
     "name": ["Gidsen kas"],
     "rondjes": [
       []
@@ -5615,16 +5191,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "vreugdevolle Gorilla"
-      }
-    ],
-    "price": [
-      {
-        "price": "0.3"
-      }
-    ],
+    "totem": ["vreugdevolle Gorilla"],
+    "price": ["0.3"],
     "name": ["Gommers Koen"],
     "rondjes": [
       [
@@ -5814,16 +5382,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Parate hazewind"
-      }
-    ],
-    "price": [
-      {
-        "price": "-1.4"
-      }
-    ],
+    "totem": ["Parate hazewind"],
+    "price": ["-1.4"],
     "name": ["Vertommen Marijke"],
     "rondjes": [
       [
@@ -5937,16 +5497,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Parate Jako"
-      }
-    ],
-    "price": [
-      {
-        "price": "-0.00999999999999"
-      }
-    ],
+    "totem": ["Parate Jako"],
+    "price": ["-0.00999999999999"],
     "name": ["Hendrickx Bert"],
     "rondjes": [
       [
@@ -6132,16 +5684,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Openhartige Kaketoe"
-      }
-    ],
-    "price": [
-      {
-        "price": "-15.8"
-      }
-    ],
+    "totem": ["Openhartige Kaketoe"],
+    "price": ["-15.8"],
     "name": ["Van Den Bosch Sander"],
     "rondjes": [
       [
@@ -6315,16 +5859,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Kameel"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["Kameel"],
+    "price": ["0"],
     "name": ["De Keyser Sarah"],
     "rondjes": [
       [
@@ -6384,16 +5920,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "kanarie"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["kanarie"],
+    "price": ["0"],
     "name": ["krey khey"],
     "rondjes": [
       []
@@ -6423,16 +5951,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Enthousiaste Kangoeroe"
-      }
-    ],
-    "price": [
-      {
-        "price": "-0.3"
-      }
-    ],
+    "totem": ["Enthousiaste Kangoeroe"],
+    "price": ["-0.3"],
     "name": ["Mollemans Bram"],
     "rondjes": [
       [
@@ -6618,16 +6138,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Opgewekte Kapucijnaap"
-      }
-    ],
-    "price": [
-      {
-        "price": "-22.5"
-      }
-    ],
+    "totem": ["Opgewekte Kapucijnaap"],
+    "price": ["-22.5"],
     "name": ["Cloet Evert"],
     "rondjes": [
       [
@@ -6703,16 +6215,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Kariboe"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["Kariboe"],
+    "price": ["0"],
     "name": ["Nathalie Moeyersons"],
     "rondjes": [
       [
@@ -6739,16 +6243,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Rustige Katfret"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["Rustige Katfret"],
+    "price": ["0"],
     "name": ["Somers Casper"],
     "rondjes": [
       [
@@ -6930,16 +6426,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "kraanvogel"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["kraanvogel"],
+    "price": ["0"],
     "name": [null],
     "rondjes": [
       []
@@ -6965,16 +6453,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Oprechte Loewak"
-      }
-    ],
-    "price": [
-      {
-        "price": "6"
-      }
-    ],
+    "totem": ["Oprechte Loewak"],
+    "price": ["6"],
     "name": [" Nathalie Verhaeren"],
     "rondjes": [
       [
@@ -7006,16 +6486,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "geslepen Lori"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["geslepen Lori"],
+    "price": ["0"],
     "name": ["Romanus Ward"],
     "rondjes": [
       [
@@ -7133,16 +6605,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Flamboyante Maraboe"
-      }
-    ],
-    "price": [
-      {
-        "price": "0.3"
-      }
-    ],
+    "totem": ["Flamboyante Maraboe"],
+    "price": ["0.3"],
     "name": ["Verbeeck Mattias"],
     "rondjes": [
       [
@@ -7328,16 +6792,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Kwieke Maraboe"
-      }
-    ],
-    "price": [
-      {
-        "price": "-43.8"
-      }
-    ],
+    "totem": ["Kwieke Maraboe"],
+    "price": ["-43.8"],
     "name": ["Van Baden Steven"],
     "rondjes": [
       [
@@ -7483,16 +6939,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Verstrooide Markhoor"
-      }
-    ],
-    "price": [
-      {
-        "price": "-22"
-      }
-    ],
+    "totem": ["Verstrooide Markhoor"],
+    "price": ["-22"],
     "name": ["Van Eekert Bram"],
     "rondjes": [
       [
@@ -7682,16 +7130,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Ondeugende Moeflon"
-      }
-    ],
-    "price": [
-      {
-        "price": "10"
-      }
-    ],
+    "totem": ["Ondeugende Moeflon"],
+    "price": ["10"],
     "name": ["Heylen Bram"],
     "rondjes": [
       [
@@ -7849,16 +7289,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Zorgeloze Olifant"
-      }
-    ],
-    "price": [
-      {
-        "price": "46.84"
-      }
-    ],
+    "totem": ["Zorgeloze Olifant"],
+    "price": ["46.84"],
     "name": ["Renkin Thomas"],
     "rondjes": [
       [
@@ -8048,16 +7480,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "opendeurdag opendeurdag"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["opendeurdag opendeurdag"],
+    "price": ["0"],
     "name": ["opendeurdag opendeurdag"],
     "rondjes": [
       []
@@ -8087,16 +7511,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Vrijmoedige Panda"
-      }
-    ],
-    "price": [
-      {
-        "price": "48.8"
-      }
-    ],
+    "totem": ["Vrijmoedige Panda"],
+    "price": ["48.8"],
     "name": ["Sas Wim"],
     "rondjes": [
       [
@@ -8262,16 +7678,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "saki"
-      }
-    ],
-    "price": [
-      {
-        "price": "12"
-      }
-    ],
+    "totem": ["saki"],
+    "price": ["12"],
     "name": ["melanie "],
     "rondjes": [
       []
@@ -8292,16 +7700,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Gemoedelijke Saterhoen"
-      }
-    ],
-    "price": [
-      {
-        "price": "-3.2"
-      }
-    ],
+    "totem": ["Gemoedelijke Saterhoen"],
+    "price": ["-3.2"],
     "name": ["Maarten Van den Hof"],
     "rondjes": [
       [
@@ -8459,16 +7859,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Beheerste Schaarbek"
-      }
-    ],
-    "price": [
-      {
-        "price": "-48"
-      }
-    ],
+    "totem": ["Beheerste Schaarbek"],
+    "price": ["-48"],
     "name": ["Huber Thomas"],
     "rondjes": [
       [
@@ -8626,16 +8018,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Oprechte Secretarisvogel"
-      }
-    ],
-    "price": [
-      {
-        "price": "-15.6"
-      }
-    ],
+    "totem": ["Oprechte Secretarisvogel"],
+    "price": ["-15.6"],
     "name": ["Vandenschilden Jan"],
     "rondjes": [
       [
@@ -8708,16 +8092,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Sociale Serval"
-      }
-    ],
-    "price": [
-      {
-        "price": "39.89"
-      }
-    ],
+    "totem": ["Sociale Serval"],
+    "price": ["39.89"],
     "name": ["Mertens Toon"],
     "rondjes": [
       [
@@ -8887,16 +8263,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Siamang"
-      }
-    ],
-    "price": [
-      {
-        "price": "-0.4"
-      }
-    ],
+    "totem": ["Siamang"],
+    "price": ["-0.4"],
     "name": ["De Cock Raj"],
     "rondjes": [
       [
@@ -8955,16 +8323,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Sociale Sifaka"
-      }
-    ],
-    "price": [
-      {
-        "price": "12"
-      }
-    ],
+    "totem": ["Sociale Sifaka"],
+    "price": ["12"],
     "name": ["Van Tricht Senne"],
     "rondjes": [
       [
@@ -9114,16 +8474,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Aangename Sikahert"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["Aangename Sikahert"],
+    "price": ["0"],
     "name": ["Rombauts Bart"],
     "rondjes": [
       [
@@ -9293,16 +8645,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "behendige Spinaap"
-      }
-    ],
-    "price": [
-      {
-        "price": "11.3"
-      }
-    ],
+    "totem": ["behendige Spinaap"],
+    "price": ["11.3"],
     "name": ["Van den Bosch Wannes"],
     "rondjes": [
       [
@@ -9440,16 +8784,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Energieke Spitsvogel"
-      }
-    ],
-    "price": [
-      {
-        "price": "22.99"
-      }
-    ],
+    "totem": ["Energieke Spitsvogel"],
+    "price": ["22.99"],
     "name": ["Planckaert Rens"],
     "rondjes": [
       [
@@ -9639,16 +8975,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "tevreden Spreeuw"
-      }
-    ],
-    "price": [
-      {
-        "price": "-20.8"
-      }
-    ],
+    "totem": ["tevreden Spreeuw"],
+    "price": ["-20.8"],
     "name": ["Tjoen Thomas"],
     "rondjes": [
       [
@@ -9810,16 +9138,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Gezellige Steenbok"
-      }
-    ],
-    "price": [
-      {
-        "price": "-4.6"
-      }
-    ],
+    "totem": ["Gezellige Steenbok"],
+    "price": ["-4.6"],
     "name": ["Sluyts Lotte"],
     "rondjes": [
       [
@@ -9883,16 +9203,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Assertieve Steenbok"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["Assertieve Steenbok"],
+    "price": ["0"],
     "name": ["Moeyersons Thomas"],
     "rondjes": [
       [
@@ -10082,16 +9394,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Stekelstaarteekhoorn (v)"
-      }
-    ],
-    "price": [
-      {
-        "price": "-17.6"
-      }
-    ],
+    "totem": ["Stekelstaarteekhoorn (v)"],
+    "price": ["-17.6"],
     "name": ["De Vos Joke"],
     "rondjes": [
       [
@@ -10136,16 +9440,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "doordachte stokstaart"
-      }
-    ],
-    "price": [
-      {
-        "price": "33.8"
-      }
-    ],
+    "totem": ["doordachte stokstaart"],
+    "price": ["33.8"],
     "name": ["van Eekert Maarten"],
     "rondjes": [
       [
@@ -10180,16 +9476,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Clevere Suricata"
-      }
-    ],
-    "price": [
-      {
-        "price": "0"
-      }
-    ],
+    "totem": ["Clevere Suricata"],
+    "price": ["0"],
     "name": ["Verlinden Katrien"],
     "rondjes": [
       [
@@ -10302,16 +9590,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Guitige Tagoean"
-      }
-    ],
-    "price": [
-      {
-        "price": "0.00999999999999"
-      }
-    ],
+    "totem": ["Guitige Tagoean"],
+    "price": ["0.00999999999999"],
     "name": ["Van Aken Nick"],
     "rondjes": [
       [
@@ -10501,16 +9781,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Drukke Tupaja"
-      }
-    ],
-    "price": [
-      {
-        "price": "37.83"
-      }
-    ],
+    "totem": ["Drukke Tupaja"],
+    "price": ["37.83"],
     "name": ["Janssens Michiel"],
     "rondjes": [
       [
@@ -10700,16 +9972,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Gelaten Wasbeer"
-      }
-    ],
-    "price": [
-      {
-        "price": "-75.1"
-      }
-    ],
+    "totem": ["Gelaten Wasbeer"],
+    "price": ["-75.1"],
     "name": ["Henderickx Ward"],
     "rondjes": [
       [
@@ -10887,16 +10151,8 @@
     ]
   },
   {
-    "totem": [
-      {
-        "totem": "Wisent"
-      }
-    ],
-    "price": [
-      {
-        "price": "-0.6"
-      }
-    ],
+    "totem": ["Wisent"],
+    "price": ["-0.6"],
     "name": ["De Burghgraeve Kasper"],
     "rondjes": [
       [

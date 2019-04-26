@@ -98,7 +98,7 @@ function showHome() {
         homeDivs[i].style.display = "flex";
     }
     for (i = 0; i < adminDivs.length; i++) {
-        homeDivs[i].style.display = "none";
+        adminDivs[i].style.display = "none";
     }
 }
 
@@ -110,13 +110,13 @@ function showAdmin() {
         homeDivs[i].style.display = "none";
     }
     for (i = 0; i < adminDivs.length; i++) {
-        homeDivs[i].style.display = "flex";
+        adminDivs[i].style.display = "flex";
     }
 }
 
 function showPersonal() {
     for (i = 0; i < adminDivs.length; i++) {
-        homeDivs[i].style.display = "none";
+        adminDivs[i].style.display = "none";
     }
     for (i = 0; i < personalDivs.length; i++) {
         personalDivs[i].style.display = "flex";

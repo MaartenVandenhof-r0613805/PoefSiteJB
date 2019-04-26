@@ -15,7 +15,8 @@ numextract <- function(string){
 } 
 
 rd$server$stop()
-rd <- rsDriver(port=4444L, browser = "chrome", chromever="73.0.3683.68")
+#rd <- rsDriver(port=4444L, browser = "chrome", chromever="73.0.3683.68")
+rd <- rsDriver(port=4444L, browser = "chrome")
 rem_dr <- rd[["client"]]
 completeDetailsList <- list()
 
@@ -49,7 +50,7 @@ urlA <- "http://scoutsjanbreydel.be/poefsite/index.php?pagina=kiesNaam.php&tak=A
       price <- price[price != "",]
       price <- numextract(price)
       price <- as.data.frame(price)
-      
+      price <- price[1,]
       
       totem <- html_nodes(html, "h2")
       totem <- sapply(totem, function(x){
@@ -59,8 +60,9 @@ urlA <- "http://scoutsjanbreydel.be/poefsite/index.php?pagina=kiesNaam.php&tak=A
         t<- sub('.*:\\s*', '', t)
       })
       totem <- as.data.frame(totem)
+      totem <- totem[1,]
       
-      name <- totems[trimws(tolower(totems$Totem)) == trimws(as.character(tolower(totem$totem))),]
+      name <- totems[trimws(tolower(totems$Totem)) == trimws(as.character(tolower(totem))),]
       name <- name$Naam
       name <- as.data.frame(name)
       name <- name[1,]
@@ -182,6 +184,7 @@ for(i in 1:length(webElem$text)){  #length(webElem$text)
     price <- price[price != "",]
     price <- numextract(price)
     price <- as.data.frame(price)
+    price <- price[1,]
     
     
     totem <- html_nodes(html, "h2")
@@ -192,8 +195,9 @@ for(i in 1:length(webElem$text)){  #length(webElem$text)
       t<- sub('.*:\\s*', '', t)
     })
     totem <- as.data.frame(totem)
+    totem <- totem[1,]
     
-    name <- totems[trimws(tolower(totems$Totem)) == trimws(as.character(tolower(totem$totem))),]
+    name <- totems[trimws(tolower(totems$Totem)) == trimws(as.character(tolower(totem))),]
     name <- name$Naam
     name <- as.data.frame(name)
     name <- name[1,]
@@ -318,6 +322,7 @@ for(i in 1:length(webElem$text)){  #length(webElem$text)
     price <- price[price != "",]
     price <- numextract(price)
     price <- as.data.frame(price)
+    price <- price[1,]
     
     
     totem <- html_nodes(html, "h2")
@@ -328,8 +333,9 @@ for(i in 1:length(webElem$text)){  #length(webElem$text)
       t<- sub('.*:\\s*', '', t)
     })
     totem <- as.data.frame(totem)
+    totem <- totem[1,]
     
-    name <- totems[trimws(tolower(totems$Totem)) == trimws(as.character(tolower(totem$totem))),]
+    name <- totems[trimws(tolower(totems$Totem)) == trimws(as.character(tolower(totem))),]
     name <- name$Naam
     name <- as.data.frame(name)
     name <- name[1,]
@@ -437,12 +443,4 @@ rd$server$stop()
 ###################################################
 ###################################################
 ###################################################
-###################################################
-###################################################
-###################################################
-###################################################
-###################################################
-###################################################
-###################################################
-###################################################
-###################################################
+
